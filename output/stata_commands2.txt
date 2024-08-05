@@ -1,0 +1,696 @@
+rename सकषतकरकतथ b_A
+label variable b_A "Date of Interview"
+rename सकषतकरलनवलकनम b_B
+label variable b_B "Name of the interviewer"
+rename LocationID LocationID
+label variable LocationID "Location ID"
+rename LocationName LocationName
+label variable LocationName "Location Name"
+rename पहचनठकसपषटकर b_0
+label variable b_0 "Identity"
+rename UniqueID UniqueID
+label variable UniqueID "Unique ID"
+rename परतवदपहलनम b_1
+label variable b_1 "Respondent(1st name)"
+rename परवरकनमउपनम b_2
+label variable b_2 "Family name/surname"
+rename घरकमखयकनम b_3
+label variable b_3 "Household head's name"
+rename AMobileNoPrimary b_3A
+label variable b_3A "Mobile no.(Primary)"
+rename BMobileNoConfirm b_3B
+label variable b_3B "Mobile no.(confirm primary)"
+rename रशनकरडकपरकर b_4
+label variable b_4 "Ration card type"
+rename परवरकववरण b_5
+label variable b_5 "Details of family"
+rename धरम b_6
+label variable b_6 "Religion"
+rename जत b_7
+label variable b_7 "Caste"
+rename नवसककषतर b_8
+label variable b_8 "Region of Residence"
+rename घरकसवमतव b_9
+label variable b_9 "Home-ownership"
+rename घरलजनकर b_2_1
+label variable b_2_1 "Household information"
+rename Respondentखद b__1
+label variable b__1 "Respondent"
+rename परतवदकनम b_2_0_1
+label variable b_2_0_1 "Respondent's name"
+rename लग b_2_1_1
+label variable b_2_1_1 "Sex"
+rename घरकमखयससबध b_2_2_1
+label variable b_2_2_1 "Relationship with HH head"
+rename आयपरवरषम b_2_3_1
+label variable b_2_3_1 "Age"
+rename वकलगत b_2_4_1
+label variable b_2_4_1 "Disability"
+rename ववहकसथत b_2_5_1
+label variable b_2_5_1 "Marital Status"
+rename शकषणकयगयत b_2_6_1
+label variable b_2_6_1 "Educ. Qualification"
+rename Bसकषरतकसतर b_2_6B_1
+label variable b_2_6B_1 "Literacy level"
+rename रज़गरकसथत b_2_7_1
+label variable b_2_7_1 "Employment status"
+rename लबअवधकबमरजसकलएदखभ b_2_8_1
+label variable b_2_8_1 "Long term illness that require care"
+rename कयआपघरकमखयह b_2_9_1
+label variable b_2_9_1 "Are you the household head?"
+rename पछलछहमहनमवहकतनबरब b_2_10_1
+label variable b_2_10_1 "How many times did he/she fall sick in last 6 months?"
+rename बमरकयथ b_2_11_1
+label variable b_2_11_1 "What was the disease?"
+rename पत b__2_2
+label variable b__2_2 "Father"
+rename पतकनम b_2_0_2
+label variable b_2_0_2 "Father's name"
+rename लग b_2_1_2
+label variable b_2_1_2 "Sex"
+rename घरकमखयससबध b_2_2_2
+label variable b_2_2_2 "Relationship with HH head"
+rename आयपरवरषम b_2_3_2
+label variable b_2_3_2 "Age"
+rename वकलगत b_2_4_2
+label variable b_2_4_2 "Disability"
+rename ववहकसथत b_2_5_2
+label variable b_2_5_2 "Marital Status"
+rename शकषणकयगयत b_2_6_2
+label variable b_2_6_2 "Educ. Qualification"
+rename Bसकषरतकसतर b_2_6B_2
+label variable b_2_6B_2 "Literacy level"
+rename रज़गरकसथत b_2_7_2
+label variable b_2_7_2 "Employment status"
+rename लबअवधकबमरजसकलएदखभ b_2_8_2
+label variable b_2_8_2 "Long term illness that require care"
+rename कयआपघरकमखयह b_2_9_2
+label variable b_2_9_2 "Are you the household head?"
+rename पछलछहमहनमवहकतनबरब b_2_10_2
+label variable b_2_10_2 "How many times did he/she fall sick in last 6 months?"
+rename बमरकयथ b_2_11_2
+label variable b_2_11_2 "What was the disease?"
+rename मँ b_2_3
+label variable b_2_3 "Mother"
+rename मँकनम b_2_0_3
+label variable b_2_0_3 "Mother's name"
+rename लग b_2_1_3
+label variable b_2_1_3 "Sex"
+rename घरकमखयससबध b_2_2_3
+label variable b_2_2_3 "Relationship with HH head"
+rename आयपरवरषम b_2_3_3
+label variable b_2_3_3 "Age"
+rename वकलगत b_2_4_3
+label variable b_2_4_3 "Disability"
+rename ववहकसथत b_2_5_3
+label variable b_2_5_3 "Marital Status"
+rename शकषणकयगयत b_2_6_3
+label variable b_2_6_3 "Educ. Qualification"
+rename Bसकषरतकसतर b_2_6B_3
+label variable b_2_6B_3 "Literacy level"
+rename रज़गरकसथत b_2_7_3
+label variable b_2_7_3 "Employment status"
+rename लबअवधकबमरजसकलएदखभ b_2_8_3
+label variable b_2_8_3 "Long term illness that require care"
+rename कयआपघरकमखयह b_2_9_3
+label variable b_2_9_3 "Are you the household head?"
+rename पछलछहमहनमवहकतनबरब b_2_10_3
+label variable b_2_10_3 "How many times did he/she fall sick in last 6 months?"
+rename बमरकयथ b_2_11_3
+label variable b_2_11_3 "What was the disease?"
+rename भई-बहनयदकईहअधमनतः b_2_4
+label variable b_2_4 "Sibling"
+rename भई-बहनकनम b_2_0_4
+label variable b_2_0_4 "Name"
+rename लग b_2_1_4
+label variable b_2_1_4 "Sex"
+rename घरकमखयससबध b_2_2_4
+label variable b_2_2_4 "Relationship with HH head"
+rename आयपरवरषम b_2_3_4
+label variable b_2_3_4 "Age"
+rename वकलगत b_2_4_4
+label variable b_2_4_4 "Disability"
+rename ववहकसथत b_2_5_4
+label variable b_2_5_4 "Marital Status"
+rename शकषणकयगयत b_2_6_4
+label variable b_2_6_4 "Educ. Qualification"
+rename Bसकषरतकसतर b_2_6B_4
+label variable b_2_6B_4 "Literacy level"
+rename रज़गरकसथत b_2_7_4
+label variable b_2_7_4 "Employment status"
+rename लबअवधकबमरजसकलएदखभ b_2_8_4
+label variable b_2_8_4 "Long term illness that require care"
+rename कयआपघरकमखयह b_2_9_4
+label variable b_2_9_4 "Are you the household head?"
+rename पछलछहमहनमवहकतनबरब b_2_10_4
+label variable b_2_10_4 "How many times did he/she fall sick in the last 6 months?"
+rename बमरकयथ b_2_11_4
+label variable b_2_11_4 "What was the disease?"
+rename वयवसयऔरकमईससबधत b_2__3
+label variable b_2__3 "Occupation and Earning"
+rename आपकपरथमकवयवसयकयह b__2_3_1
+label variable b__2_3_1 "Primary Occupation"
+rename आपकपरवरकमखयकमनवलस b__2_3_2
+label variable b__2_3_2 "Primary occupation of the main earning member"
+rename जवनकसतषट b__7
+label variable b__7 "Health"
+rename सभबतपरवचरकरतआपअपन b_7_1_1
+label variable b_7_1_1 "Level of satisfaction with life"
+rename आपअपनजवनसतरसकतनसत b_7_1_2
+label variable b_7_1_2 "Level of satisfaction with standard of living"
+rename आपअपनभवषयकसरकषसकत b_7_1_3
+label variable b_7_1_3 "Level of satisfaction with future security"
+rename आपअपनआरथकसथतसकतनस b_7_1_4
+label variable b_7_1_4 "Level of satisfaction with financial situation"
+rename मत-पतकअपकषओऔरदबवक b_7_2
+label variable b_7_2 "What do you plan to do in future?"
+rename आपभवषयमकयकरनकयजनब CE
+label variable CE "To examine parental expectations, ask respondent and parents"
+rename आपभवषयमकयकरनकयजनब b_7_2_1
+label variable b_7_2_1 "help in household chores at this home"
+rename आपभवषयमकयकरनकयजनब b_7_2_2
+label variable b_7_2_2 "get married"
+rename आपभवषयमकयकरनकयजनब b_7_2_3
+label variable b_7_2_3 "take tuitions"
+rename आपभवषयमकयकरनकयजनब b_7_2_4
+label variable b_7_2_4 "do informal work"
+rename आपभवषयमकयकरनकयजनब b_7_2_5
+label variable b_7_2_5 "continue higher education"
+rename आपभवषयमकयकरनकयजनब b_7_2_6
+label variable b_7_2_6 "self-employed"
+rename आपभवषयमकयकरनकयजनब b_7_2_7
+label variable b_7_2_7 "prepare for job"
+rename आपभवषयमकयकरनकयजनब b_7_2_8
+label variable b_7_2_8 "do government job"
+rename आपभवषयमकयकरनकयजनब b_7_2_9
+label variable b_7_2_9 "do private job"
+rename आपभवषयमकयकरनकयजनब b_7_2_10
+label variable b_7_2_10 "Others"
+rename यदआपउचचशकषजररखनचह b_7_3
+label variable b_7_3 "Highest level of education he/she wants to pursue"
+rename कयआपपछलबरहमहनमकसन b_7_4
+label variable b_7_4 "Looking for job in last 12 months?"
+rename पछलबरहमहनमआपकतनपर b_7_5
+label variable b_7_5 "sit for exams in last 12 months?"
+rename Bपछलबरहमहनमआपनकतन b_7_5B
+label variable b_7_5B "Nunber of interviews he/she sat for last 12 months"
+rename आपभवषयमकसतरहकनकरक b_7_6
+label variable b_7_6 "Kind of job he/she wants to do in future"
+rename Aउसकमनमकसतरहकसरकर b_7_6A
+label variable b_7_6A "Kind of government job that he/she has in mind"
+rename Aउसकमनमकसतरहकसरकर b_7_6A_1
+label variable b_7_6A_1 "Central government job through UPSC"
+rename Aउसकमनमकसतरहकसरकर b_7_6A_2
+label variable b_7_6A_2 "Nationalized Banks"
+rename Aउसकमनमकसतरहकसरकर b_7_6A_3
+label variable b_7_6A_3 "Indian Railways"
+rename Aउसकमनमकसतरहकसरकर b_7_6A_4
+label variable b_7_6A_4 "SSC"
+rename Aउसकमनमकसतरहकसरकर b_7_6A_5
+label variable b_7_6A_5 "Defense exams"
+rename Aउसकमनमकसतरहकसरकर b_7_6A_6
+label variable b_7_6A_6 "Public sector undertaking jobs"
+rename Aउसकमनमकसतरहकसरकर b_7_6A_7
+label variable b_7_6A_7 "FCI jobs"
+rename Aउसकमनमकसतरहकसरकर b_7_6A_8
+label variable b_7_6A_8 "Kendriya Vidyalaya teaching post exams"
+rename Aउसकमनमकसतरहकसरकर b_7_6A_9
+label variable b_7_6A_9 "UP Police"
+rename Aउसकमनमकसतरहकसरकर b_7_6A_10
+label variable b_7_6A_10 "UP Public service commission"
+rename Aउसकमनमकसतरहकसरकर b_7_6A_11
+label variable b_7_6A_11 "UP Teaching eligibility test"
+rename Aउसकमनमकसतरहकसरकर b_7_6A_12
+label variable b_7_6A_12 "UP State Eligibility Test"
+rename Aउसकमनमकसतरहकसरकर b_7_6A_13
+label variable b_7_6A_13 "UP High Court recruitment"
+rename Aउसकमनमकसतरहकसरकर b_7_6A_14
+label variable b_7_6A_14 "UP Lekpal Exams"
+rename Aउसकमनमकसतरहकसरकर b_7_6A_15
+label variable b_7_6A_15 "Others"
+rename Aउसकमनमकसतरहकसरकर b_7_6A_16
+label variable b_7_6A_16 "nan"
+rename Bवहकससतरपरसरकरनकर b_7_6B
+label variable b_7_6B "7.6B वह किस स्तर पर सरकारी नौकरी पाने की इच्छा रखता है?"
+rename कयआपनकरकलएवरतमनसथ b_7_7
+label variable b_7_7 "Are you open to moving out of current location for job?"
+rename कयनकरखजकसबधमआपकपस b_7_8
+label variable b_7_8 "Do you have any specific restrictions in terms of job search?"
+rename कयनकरखजकसबधमआपकपस b_7_8_1
+label variable b_7_8_1 "closer to home"
+rename कयनकरखजकसबधमआपकपस b_7_8_2
+label variable b_7_8_2 "time flexibility"
+rename कयनकरखजकसबधमआपकपस b_7_8_3
+label variable b_7_8_3 "work-life balance"
+rename कयनकरखजकसबधमआपकपस b_7_8_4
+label variable b_7_8_4 "job security/pension"
+rename कयनकरखजकसबधमआपकपस b_7_8_5
+label variable b_7_8_5 "part-time only"
+rename कयनकरखजकसबधमआपकपस b_7_8_6
+label variable b_7_8_6 " Others"
+rename पछलसपतहकदरनआपनजबम b_7_9
+label variable b_7_9 "Number of hours you prepared for job market/entrance exams"
+rename जबमरकटखजकलएपछलबरह b_7_10
+label variable b_7_10 "Kind of preparation he/she took in last 12 months for job market/search"
+rename Bअगरआपकसरकरनकरनहम b_7_10B
+label variable b_7_10B "Back-up plan"
+rename आपकसउमरमशदकरनचहतह b_7_11
+label variable b_7_11 "Age at which he/she wants to get married"
+rename आपकसउमरमपरवरशरकरन b_7_12
+label variable b_7_12 "Age at which he/she would like to start a family"
+rename आपकलएनकरकपरकरयनकर b_7_13
+label variable b_7_13 "Family member's opinion that matters most while deciding the job type"
+rename सकपमनपरबलकलभआशवसत b_7_14
+label variable b_7_14 "scale of 0 to 10, confidence to go out to work"
+rename सकपमनपरबलकलभआशवसत b_7_15
+label variable b_7_15 "scale of 0 to 10, confidence that he/she will land a govt. job"
+rename आपककयलगतहकनकरकबज़ b_7_16
+label variable b_7_16 "level of difficulty to succeed in job market"
+rename आपककयलगतहकसरकरनकर b_7_17
+label variable b_7_17 "level of difficulty to succeed in government job market"
+rename आपकअनसरनकरबज़रमआप b_7_18
+label variable b_7_18 "Main obstacle he/she is facing in the job market"
+rename समय-उपयगऔरगतवधयँआ b_7_19
+label variable b_7_19 "Time-use and Activities"
+rename वतनभगकम b_7_19_1
+label variable b_7_19_1 "Paid work"
+rename कलजवशववदयलयजनपढ़ई b_7_19_2
+label variable b_7_19_2 "Attending college/university, studies etc."
+rename नकरपरशकषणआदकतयर b_7_19_3
+label variable b_7_19_3 "Preparation for jobs/training etc."
+rename घरलकम b_7_19_4
+label variable b_7_19_4 "Household chores"
+rename आरमकरनशकटवदखनआद b_7_19_5
+label variable b_7_19_5 "Relax/Hobby watching TV etc."
+rename सन b_7_19_6
+label variable b_7_19_6 "Sleeping"
+rename समजकमलजलफ़नपरआद b_7_19_7
+label variable b_7_19_7 "Socializing"
+rename शररकवययमययग b_7_19_8
+label variable b_7_19_8 "Physical exercise or yoga"
+rename बचचकदखभलबजरगकदखभल b_7_19_9
+label variable b_7_19_9 "Child care/elderly care"
+rename अनय b_7_19_10
+label variable b_7_19_10 "Others"
+rename इसपरतवदकपढ़: b__8
+label variable b__8 "Read this out to respondent"
+rename सभचजकएकसथमलकरआपकह b_8_1
+label variable b_8_1 "How happy would you say you are?"
+rename जवनकसभवनकसढ़कटरलस b_8_2
+label variable b_8_2 "Ladder of life possibility"
+rename आमतरपरकछलगजखमलनपस b_8_3
+label variable b_8_3 "Willingness to take risks"
+rename सकपमनपरआपकजवनमधरम b_8_4
+label variable b_8_4 "Importance of religion in life"
+rename पछलदनमआपकऔसतनकसलग b_9_1
+label variable b_9_1 "General Health"
+rename पछलदनमआपकऔसतनकसलग b_9_2
+label variable b_9_2 "Mental Health"
+rename चतऔरअवसदकलएरगसवसथ b_10
+label variable b_10 "Patient Health Questionnaire"
+rename घबरहटबचनयघबरहटमहस b_10_1
+label variable b_10_1 "Feeling nervous, anxious or on edge?"
+rename चतकरकनयनयतरतकरनमस b_10_2
+label variable b_10_2 "Not being able to stop or control worrying?"
+rename उदसउदसयनरशमहससकरन b_10_3
+label variable b_10_3 "Feeling down, depressed or hopeless"
+rename करयककरनमकमरचयआनद b_10_4
+label variable b_10_4 "Little interest or pleasure in doing things"
+rename डरलगरहहजसकछभयनकघट b_10_5
+label variable b_10_5 "Feeling afraid as if something awful might happen?"
+rename मजदपरसथतयमपछलदहफत b_11
+label variable b_11 "Under current circumstances, over past 2 weeks"
+rename आपअपनभवषयकलकरकतनअ b_11_1
+label variable b_11_1 "Level of uncertainty about future"
+rename आपअपनभवषयकलकरकतनन b_11_2
+label variable b_11_2 "How hopeless are you about your future?"
+rename आपनसमजकरपसकतनजड़व b_11_3
+label variable b_11_3 "How socially connected have you felt?"
+rename दस-आइटमवयकततवसच-ट b_12
+label variable b_12 "Ten-Item Personality Inventory"
+rename बहरमखउतसह। b_12_1
+label variable b_12_1 "Extraverted, enthusiastic"
+rename नदकझगड़ल। b_12_2
+label variable b_12_2 "Critical, quarrelsome"
+rename भरसमदआतम-अनशसत। b_12_3
+label variable b_12_3 "Dependable, self-disciplined"
+rename चततआसनसपरशनहन। b_12_4
+label variable b_12_4 "Anxious, easily upset'"
+rename नएअनभवकलएखलजटल। b_12_5
+label variable b_12_5 "Open to new experiences, complex"
+rename आरकषतशत b_12_6
+label variable b_12_6 "Reserved, quiet"
+rename सहनभतपरणगरमजशपरण। b_12_7
+label variable b_12_7 "Sympathetic, warm"
+rename अवयवसथतलपरवह। b_12_8
+label variable b_12_8 "Disorgainzed, careless"
+rename शतभवनतमकरपससथर। b_12_9
+label variable b_12_9 "Calm, emotionally stable"
+rename परमपरगतअरचनतमक। b_12_10
+label variable b_12_10 "Conventional, uncreative"
+rename आतमसममनससमबधतपरशन b_13
+label variable b_13 "Questions related to self-esteem'"
+rename आपनहलहमकतनउपयगमहस b_13_1
+label variable b_13_1 "How useful have you felt recently?"
+rename हलहमआपसवयककतनबकरव b_13_2
+label variable b_13_2 "How much have you been thinking of yourself as worthless person"
+rename नयतरणरखससबधतपरशन: b_14
+label variable b_14 "Question related to Locus of Control"
+rename मरसथजकछघटतहतहउसपर b_14_1
+label variable b_14_1 "I have little control over the things that happen to me"
+rename वसतवमऐसकईतरकनहहजस b_14_2
+label variable b_14_2 "There is no way I can solve some of the problems I have."
+rename मअपनजवनककईमहतवपरण b_14_3
+label variable b_14_3 "There is little I can do to change many important things in life."
+rename मअकसरजवनकसमसयओसनप b_14_4
+label variable b_14_4 "I often feel helpless in dealing with the problems of life."
+rename कभ-कभमझलगतहकमझजवन b_14_5
+label variable b_14_5 "Sometimes I feel that I'm being pushed around in life."
+rename भवषयममरसथकयहगयहअध b_14_6
+label variable b_14_6 "What happens to me in future mostly depends on me."
+rename मवहसबकछकरसकतहजसकर b_14_7
+label variable b_14_7 "I can do just about anything I really set my mind to do."
+rename मबइलऔरइटरनटतकपहच b_15
+label variable b_15 "Access to mobile and internet."
+rename तमहरपसअपनमबईलफ़नह b_15_1
+label variable b_15_1 "Do you own a mobile phone?"
+rename यदQहँहतकयवहसमरटफ़ b_15_1_1
+label variable b_15_1_1 "If yes to Q.15.1, is that a smartphone?"
+rename कयआपकघरमइटरनटकसवध b_15_2
+label variable b_15_2 "Do you have access to internet within household?"
+rename यदपरशनकलएहँहतइटरन b_15_2_1
+label variable b_15_2_1 "What do you use internet for?"
+rename यदपरशनकलएहँहतइटरन b_15_2_1_1
+label variable b_15_2_1_1 "Chatting/calling"
+rename यदपरशनकलएहँहतइटरन b_15_2_1_2
+label variable b_15_2_1_2 "Social media"
+rename यदपरशनकलएहँहतइटरन b_15_2_1_3
+label variable b_15_2_1_3 "Education purpose"
+rename यदपरशनकलएहँहतइटरन b_15_2_1_4
+label variable b_15_2_1_4 "Entertainment"
+rename यदपरशनकलएहँहतइटरन b_15_2_1_5
+label variable b_15_2_1_5 "Online shopping"
+rename यदपरशनकलएहँहतइटरन b_15_2_1_6
+label variable b_15_2_1_6 "Other"
+rename आपकतनबरकससरतससमचर b_15_3
+label variable b_15_3 "How often do you read news from any source?"
+rename आपकसमचरकसबससमनयसर b_15_4
+label variable b_15_4 "Most usual source of your news?"
+rename आपकसमचरकसबससमनयसर b_15_4_1
+label variable b_15_4_1 "Newspapers"
+rename आपकसमचरकसबससमनयसर b_15_4_2
+label variable b_15_4_2 "Television"
+rename आपकसमचरकसबससमनयसर b_15_4_3
+label variable b_15_4_3 "Radio"
+rename आपकसमचरकसबससमनयसर b_15_4_4
+label variable b_15_4_4 "Social Media"
+rename आपकसमचरकसबससमनयसर b_15_4_5
+label variable b_15_4_5 "Messaging Apps"
+rename आपकसमचरकसबससमनयसर b_15_4_6
+label variable b_15_4_6 "Neighbours/friends/relatives/children"
+rename आपकसमचरकसबससमनयसर b_15_4_7
+label variable b_15_4_7 "Others"
+rename कयआपऐसससधनहलपलइनन b_15_5
+label variable b_15_5 "Are you aware of resources that intend to help youth with getting jobs?"
+rename यदपरशनकउततरहहतकयआ b_15_5_1
+label variable b_15_5_1 "Have you or anyone you know, ever used these resources?"
+rename परथमकतएँवरयतसरवकष b_16
+label variable b_16 "Preferences"
+rename कयआपआमतरपरऐसवयकतह b_16_1
+label variable b_16_1 "Are you generally a person who is fully prepared to take risks?"
+rename आपबदलमकछभउममदकएबन b_16_2
+label variable b_16_2 "How willing are you to give to good causes without expecting anything?"
+rename भवषयमउससलभपनकलएआप b_16_3
+label variable b_16_3 "How willing are you to give something beneficial today to benefit future?"
+rename सवयतततपरदकवलआधररख b_17
+label variable b_17 "Autonomy/purdah"
+rename कयआपकआमतरपरघरसबहर b_17_1
+label variable b_17_1 "Are you allowed to go out of house in public on your own?"
+rename कयआपकइनसथनपरजनकलए b_17_2
+label variable b_17_2 "Do you need permission from any of these to go out to these places?"
+rename कयआपघघटबरखपरदपललक b_17_3
+label variable b_17_3 "Do you practice ghungat/burkha/purdah/pallu?"
+rename यदहँतकयआपइसकअभयसक b_17_4
+label variable b_17_4 "If yes, do you practice it in front of relatives only or other people too?"
+rename जबआपकपरवरमखयभजनकर b_17_5
+label variable b_17_5 "Do women usually eat with men?"
+rename कयआपशरबडरगसधमरपनक b_17_6
+label variable b_17_6 "Do you consume alcohol/drugs/smoke?"
+rename कयआपकपसघरलखरचपरखर b_17_7
+label variable b_17_7 "Do you yourself have any cash in hand to spend on hosehold expenditure?"
+rename कयआपकनमपरकईबकखतह b_17_8
+label variable b_17_8 "Do you have a bank account in your name?"
+rename कयआपकघरकसवमतवयकरय b_17_9
+label variable b_17_9 "Is your name on the ownership or rental papers for your home?"
+rename कयआपककईपसददसथहपरम b_17_10
+label variable b_17_10 "Do you have a preferred partner?"
+rename नरणयलन b_18
+label variable b_18 "Decision-making"
+rename रजनकयपकनह b_18_1
+label variable b_18_1 "What to cook on a daily basis?"
+rename टवयफरजजसमहगवसतखरद b_18_2
+label variable b_18_2 "Whether to buy an expensive item such as TV or fridge?"
+rename अगरआपबमरपड़जएतकयक b_18_3
+label variable b_18_3 "What to do if you fall sick?"
+rename पढ़ईजररखनहयनह b_18_4
+label variable b_18_4 "Whether to continue study or not?"
+rename जमनयपरपरटखरदनहयनह b_18_5
+label variable b_18_5 "Whether to buy land or property?"
+rename शदजससमजकसमरहपरकतन b_18_6
+label variable b_18_6 "How much money to spend on a social function such as marriage?"
+rename आपककबशदकरनचहए b_18_7
+label variable b_18_7 "When you should get married?"
+rename आपकमकरसकतहयनह b_18_8
+label variable b_18_8 "Whether you can work or not?"
+rename आपककसतरहककमकरनचहए b_18_9
+label variable b_18_9 "What kind of job you should do?"
+rename परवरककमईकउपयगकसकय b_18_10
+label variable b_18_10 "How family earnings will be used?"
+rename एसडएससमजकवछनयतसकर b_19
+label variable b_19 "SDS Social Desirability Score"
+rename यदमझपरतसहतनहकयजतह b_19_1
+label variable b_19_1 "It is sometimes hard for me to go on with my work if I am not encouraged."
+rename जबमझअपनरसतनहमलततम b_19_2
+label variable b_19_2 "I sometimes feel resentful when I don't get my way."
+rename कछअवसरपरमनकछकरनछड b_19_3
+label variable b_19_3 "I have given up doing something because I thought too little of my ability."
+rename कईबरऐसहआजबमझसततमब b_19_4
+label variable b_19_4 "Sometimes I felt like rebelling against people in authority "
+rename इससकईफरकनहपड़तकमक b_19_5
+label variable b_19_5 "I'm always a good listener."
+rename ऐसमकआएजबमनकसकफयदउ b_19_6
+label variable b_19_6 "There are occasions when I took advantage of someone."
+rename जबमकईगलतकरतहतमउसस b_19_7
+label variable b_19_7 "I'm always willing to admit it when I make a mistake."
+rename मकभ-कभमफकरनऔरभलनक b_19_8
+label variable b_19_8 "I sometimes try to get even rather than forgive."
+rename मसदववनमररहतहयहतकक b_19_9
+label variable b_19_9 "I am always courteous,even to people who are disagreeable.'"
+rename जबलगनमझसबलकलअलगवच b_19_10
+label variable b_19_10 "I have never been irked when people expressed ideas very different."
+rename कईबरमझदसरकअचछभगयस b_19_11
+label variable b_19_11 "Sometimes I was quite jealous of the good fortune of others."
+rename मकभ-कभउनलगसचढ़जतह b_19_12
+label variable b_19_12 "I am sometimes irritated by people who ask favours of me."
+rename मनजनबझकरकछऐसकहहजस b_19_13
+label variable b_19_13 "I have deliberately said something that hurt someone's feelings."
+rename -कपमनपरनमनलखतकथनक b_19_14
+label variable b_19_14 "I want to be a respectful person in my slum."
+rename धरमकतपर: b_20
+label variable b_20 "On religiosity"
+rename पछलएकमहनसआपकतनबरच b_20_1
+label variable b_20_1 "How often do you take part in activities other than attending services?"
+rename पछलएकमहनसआपनकतनबर b_20_2
+label variable b_20_2 "How many times have you prayed since the last month?"
+rename कयआपखदकइसरपमवरणतक b_20_3
+label variable b_20_3 "Would you describe yourself as"
+rename कयआपइसबतससहमतहयअस b_20_4
+label variable b_20_4 "Do you agree or disagree that practicing a religion helps people to"
+rename कयआपइसबतससहमतहयअस b_20_4_1
+label variable b_20_4_1 "find inner peace and happiness."
+rename कयआपइसबतससहमतहयअस b_20_4_2
+label variable b_20_4_2 "make friends"
+rename कयआपइसबतससहमतहयअस b_20_4_3
+label variable b_20_4_3 "gain comfort in times of trouble or sorrow."
+rename कयआपइसबतससहमतहयअस b_20_4_4
+label variable b_20_4_4 "meet the right kind of people."
+rename कयआपइसबतससहमतहयअस b_20_4_5
+label variable b_20_4_5 "get what you want"
+rename कयआपइसबतससहमतहयअस b_20_4_6
+label variable b_20_4_6 "have a happy life"
+rename अधकसअधकतनमतरकगणनक b_21
+label variable b_21 "Enumerate at most three friends that are close to you"
+rename नम b_21_1_1
+label variable b_21_1_1 "Name "
+rename धरम b_21_1_2
+label variable b_21_1_2 "Religion"
+rename जत b_21_1_3
+label variable b_21_1_3 "Caste"
+rename तमउसकसजनतह b_21_1_4
+label variable b_21_1_4 "How do you know her?"
+rename लग b_21_1_5
+label variable b_21_1_5 "Fenale=1, Male=0"
+rename आपउसकबसजनतहवरषम b_21_1_6
+label variable b_21_1_6 "How long have you known him/her?"
+rename आपउससकनमददपरचरचकर b_21_1_7
+label variable b_21_1_7 "What matters do you discuss with him/her?"
+rename आपउससकनमददपरचरचकर b_21_1_7_1
+label variable b_21_1_7_1 "personal matters"
+rename आपउससकनमददपरचरचकर b_21_1_7_2
+label variable b_21_1_7_2 "education-related matters"
+rename आपउससकनमददपरचरचकर b_21_1_7_3
+label variable b_21_1_7_3 "job-market related matters"
+rename आपउससकनमददपरचरचकर b_21_1_7_4
+label variable b_21_1_7_4 "agricultural matters"
+rename आपउससकनमददपरचरचकर b_21_1_7_5
+label variable b_21_1_7_5 "health matters"
+rename आपउससकनमददपरचरचकर b_21_1_7_6
+label variable b_21_1_7_6 "financial matters"
+rename आपउससकनमददपरचरचकर b_21_1_7_7
+label variable b_21_1_7_7 "Others"
+rename आपकतनबरउसकसथमददपर b_21_1_8
+label variable b_21_1_8 "How frequently do you discuss matters with him/her?"
+rename कपयहमउसकमबइलनबरद b_21_1_9
+label variable b_21_1_9 "Please give us his/her mobile number"
+rename नम b_21_2_1
+label variable b_21_2_1 "Name"
+rename धरम b_21_2_2
+label variable b_21_2_2 "Religion"
+rename जत b_21_2_3
+label variable b_21_2_3 "Caste"
+rename तमउसकसजनतह b_21_2_4
+label variable b_21_2_4 "How do you know her?"
+rename लग b_21_2_5
+label variable b_21_2_5 "Female=1, Male=0"
+rename आपउसकबसजनतहवरषम b_21_2_6
+label variable b_21_2_6 "How long have you known him/her?"
+rename आपउससकनमददपरचरचकर b_21_2_7
+label variable b_21_2_7 "What matters do you discuss with him/her?"
+rename आपउससकनमददपरचरचकर b_21_2_7_1
+label variable b_21_2_7_1 "personal matters"
+rename आपउससकनमददपरचरचकर b_21_2_7_2
+label variable b_21_2_7_2 "education-related matters"
+rename आपउससकनमददपरचरचकर b_21_2_7_3
+label variable b_21_2_7_3 "job-market related matters."
+rename आपउससकनमददपरचरचकर b_21_2_7_4
+label variable b_21_2_7_4 "agricultural matters."
+rename आपउससकनमददपरचरचकर b_21_2_7_5
+label variable b_21_2_7_5 "health matters"
+rename आपउससकनमददपरचरचकर b_21_2_7_6
+label variable b_21_2_7_6 "financial matters"
+rename आपउससकनमददपरचरचकर b_21_2_7_7
+label variable b_21_2_7_7 "Others"
+rename आपकतनबरउसकसथमददपर b_21_2_8
+label variable b_21_2_8 "How frequently do you discuss matters with him/her?"
+rename कपयहमउसकमबइलनबरद b_21_2_9
+label variable b_21_2_9 "Please give us his/her mobile number"
+rename नम b_21_3_1
+label variable b_21_3_1 "Name"
+rename धरम b_21_3_2
+label variable b_21_3_2 "Religion"
+rename जत b_21_3_3
+label variable b_21_3_3 "Caste"
+rename तमउसकसजनतह b_21_3_4
+label variable b_21_3_4 "How do you know her?"
+rename लग b_21_3_5
+label variable b_21_3_5 "Female=1, Male=0"
+rename आपउसकबसजनतहवरषम b_21_3_6
+label variable b_21_3_6 "How long have you known him/her?"
+rename आपउससकनमददपरचरचकर b_21_3_7
+label variable b_21_3_7 "What matters do you discuss with him/her?"
+rename आपउससकनमददपरचरचकर b_21_3_7_1
+label variable b_21_3_7_1 "personal matters"
+rename आपउससकनमददपरचरचकर b_21_3_7_2
+label variable b_21_3_7_2 "education-related matters"
+rename आपउससकनमददपरचरचकर b_21_3_7_3
+label variable b_21_3_7_3 "job-market related matters"
+rename आपउससकनमददपरचरचकर b_21_3_7_4
+label variable b_21_3_7_4 "agricultural matters"
+rename आपउससकनमददपरचरचकर b_21_3_7_5
+label variable b_21_3_7_5 "health matters"
+rename आपउससकनमददपरचरचकर b_21_3_7_6
+label variable b_21_3_7_6 "financial matters"
+rename आपउससकनमददपरचरचकर b_21_3_7_7
+label variable b_21_3_7_7 "others"
+rename आपकतनबरउसकसथमददपर b_21_3_8
+label variable b_21_3_8 "How frequently do you discuss matters with him/her?"
+rename कपयहमउसकमबइलनबरद b_21_3_9
+label variable b_21_3_9 "Please give us his/her mobile number"
+rename गरमकसपरकऔरअनकलन: b_22
+label variable b_22 "Heat exposure and adaptation"
+rename कपयनचशनयसलकरऊपरदस b_22_1
+label variable b_22_1 "scale of 0 to 10,the current heat situation in summer"
+rename सकपमनपरबलकलभसहजनह b_22_2
+label variable b_22_2 "scale of 0 to 10, level of comfortability with current heat situation"
+rename सकपमनपरबलकलभआशवसत b_22_3
+label variable b_22_3 "scale of 0 to 10, level of confidence that you can handle life during summer?"
+rename गरमयमआपकतनबरगरमऔर b_22_4
+label variable b_22_4 "How often are you exposed to heat and sun in the summers?"
+rename कयआपगरमयमगरमककरणअ b_22_5
+label variable b_22_5 "Do you adjust your time schedule/lifestyle due to heat in summer?"
+rename यदहँतआपकयकरतह b_22_6
+label variable b_22_6 "If yes, what do you do?"
+rename यदहँतआपकयकरतहकईभम b_22_6_1
+label variable b_22_6_1 "Any strenuous activity is much better to do in early morning"
+rename यदहँतआपकयकरतहजतनह b_22_6_2
+label variable b_22_6_2 "Stay out of the sun as much as possible."
+rename यदहँतआपकयकरतहसतलन b_22_6_3
+label variable b_22_6_3 "Light breezy clothes made from cotton, linen etc."
+rename यदहँतआपकयकरतहबठनक b_22_6_4
+label variable b_22_6_4 "Hunt for the coolest, breeziest spot when deciding on where to sit."
+rename यदहँतआपकयकरतहबसज़ b_22_6_5
+label variable b_22_6_5 "Just don't move too much"
+rename यदहँतआपकयकरतहबसज़ b_22_6_6
+label variable b_22_6_6 "Just don't eat too much, especially not heavy meals."
+rename यदहँतआपकयकरतहपदलच b_22_6_7
+label variable b_22_6_7 "Taking a taxi instead of walking does make sense."
+rename यदहँतआपकयकरतहबर-ब b_22_6_8
+label variable b_22_6_8 "Frequent showers and change of clothes"
+rename यदहँतआपकयकरतहNA b_22_6_9
+label variable b_22_6_9 "nan"
+rename कयआपगरमयमगरमककरणक b_22_7
+label variable b_22_7 "Do you attend less classes/tuition due to the heat in the summers?"
+rename कयआपकपसनकरकतलशकमम b_22_8
+label variable b_22_8 "Any restrictions  in terms of job search that is better suited for summer heat?"
+rename कयआपकपसनकरकतलशकमम b_22_8_1
+label variable b_22_8_1 "closer to home"
+rename कयआपकपसनकरकतलशकमम b_22_8_2
+label variable b_22_8_2 "time flexibility"
+rename कयआपकपसनकरकतलशकमम b_22_8_3
+label variable b_22_8_3 "allows more leaves."
+rename कयआपकपसनकरकतलशकमम b_22_8_4
+label variable b_22_8_4 "part-time only"
+rename कयआपकपसनकरकतलशकमम b_22_8_5
+label variable b_22_8_5 "work from home"
+rename कयआपकपसनकरकतलशकमम b_22_8_6
+label variable b_22_8_6 "others"
+rename आपगरमयमअपनकपड़कतन b_22_9
+label variable b_22_9 "How often do you clean your clothes in the summers?"
+rename आपगरमयमअपनअडरगरमट b_22_10
+label variable b_22_10 "How often do you clean your undergarments in the summers?"
+rename कयआपकघरमकईकलगससटम b_22_11
+label variable b_22_11 "Do you have any cooling  system in your household?"
+rename अगरहतकयह b_22_12
+label variable b_22_12 "If yes, then what is it ?"
+rename आपहरदनकतनबरनहतहकप b_22_13
+label variable b_22_13 "How many times do you take bath everyday?"
+rename पछलदमहनकदरनगरमनआप b_22_14
+label variable b_22_14 "How did the heat affect any of the family member's health?"
+rename पछलदमहनकदरनगरमनआप b_22_14_1
+label variable b_22_14_1 "Had heat stroke"
+rename पछलदमहनकदरनगरमनआप b_22_14_2
+label variable b_22_14_2 "Upset and angry often"
+rename पछलदमहनकदरनगरमनआप b_22_14_3
+label variable b_22_14_3 "Other mental health issues"
+rename पछलदमहनकदरनगरमनआप b_22_14_4
+label variable b_22_14_4 "Excessive sweating"
+rename पछलदमहनकदरनगरमनआप b_22_14_5
+label variable b_22_14_5 "Unable to go out much as felt weak and sick"
+rename पछलदमहनकदरनगरमनआप b_22_14_6
+label variable b_22_14_6 "Other issues"
+rename “कपयएकसढ़ककलपनकरज b_22_14_7
+label variable b_22_14_7 "scale of 0 to 10, what would the future heat situation in summer be like?"
+rename _id _id
+label variable _id "_id"
+rename _index _index
+label variable _index "_index"

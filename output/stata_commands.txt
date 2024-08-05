@@ -1,0 +1,362 @@
+rename सकषतकरकतथ A
+label variable A "Date of Interview"
+rename सकषतकरलनवलकनम B
+label variable B "Name of the interviewer"
+rename LocationID LocationID
+label variable LocationID "Location ID"
+rename LocationName LocationName
+label variable LocationName "Location Name"
+rename पहचनठकसपषटकर E
+label variable E "Identity"
+rename UniqueID UniqueID
+label variable UniqueID "Unique ID"
+rename परतभगबचचकनम b_0
+label variable b_0 "Name of the participating child"
+rename पतमतकनमपहलनम b_1
+label variable b_1 "Father's/ Mother's name"
+rename परवरकनमउपनम b_2
+label variable b_2 "Family name/nickname"
+rename AMobileNoPrimary b_3A
+label variable b_3A "Mobile No. (Primary)"
+rename BMobileNoConfirm b_3B
+label variable b_3B "Mobile No. (Confirm)"
+rename वहवयकतकनह b_4
+label variable b_4 "Who is that person?"
+rename घरलजनकरएकहछतकनचरह b_2_2
+label variable b_2_2 "Household information"
+rename घरकसदसयकसखय b_2_2_1
+label variable b_2_2_1 "Number of household members"
+rename परषकसखयवरषसअधक b_2_2_2
+label variable b_2_2_2 "Number of males( over 60 years)"
+rename महलओकसखयवरषसअधक b_2_2_3
+label variable b_2_2_3 "Number of females(above 60 years)"
+rename परषबचचकसखयवरषसकम b_2_2_4
+label variable b_2_2_4 "Number of male children( below 5 years)"
+rename महलबचचकसखयवरषसकम b_2_2_5
+label variable b_2_2_5 "Number of female children (below 5 years)"
+rename वयसकपरषकसखयसवरष b_2_2_6
+label variable b_2_2_6 "Number of adult males (18 to 60 years)"
+rename वयसकमहलओकसखयसवरष b_2_2_7
+label variable b_2_2_7 "Number of adult females(18 to 60 years)"
+rename परषबचचकसखयसवरष b_2_2_8
+label variable b_2_2_8 " Number of male children (5 to 18 years)"
+rename महलबचचकसखयसवरष b_2_2_9
+label variable b_2_2_9 "Number of female children (5 to 18 years)"
+rename कयकईऐसवयकतहजसदरघक b_2_2_10
+label variable b_2_2_10 "Is there anyone who has a long-term illness that requires care?"
+rename परतभगबचचककतनभई-बह b__2_2_1
+label variable b__2_2_1 "Number of siblings the participating child has"
+rename परतभगबचचकभई-बहनमउ b__2_2_2
+label variable b__2_2_2 "What is the birth order among the siblings of the participating child?"
+rename Pवयवसयऔरकमईससबधत b_1_2_3
+label variable b_1_2_3 " Occupation and Earning"
+rename Pआपकपरथमकवयवसयकयह b_1_2_3_1
+label variable b_1_2_3_1 "Primary Occupation"
+rename Pआपकपरवरकमखयकमनवल b_1_2_3_2
+label variable b_1_2_3_2 "Primary Occupation of the main earning member"
+rename घरलआयऔरवयय: b_3
+label variable b_3 "Household Income and Expenditure"
+rename कलमसकघरलआयसमकबचह b_3_1
+label variable b_3_1 "Monthly household income range"
+rename कपयमसकघरलआयनरदषटक b_3_1_1
+label variable b_3_1_1 "Monthly household income"
+rename कयआपअपनघरऔरपड़सकअ b_3_2
+label variable b_3_2 " Economic Status"
+rename कयपछलपचवरषमसपततपश b_3_2_1
+label variable b_3_2_1 " For the last 5 years, what is the gain by the sale of assets?"
+rename परवरकमसकआयभरपछलमह b_3_3
+label variable b_3_3 "Monthly income of household (last month)"
+rename कलशरमआयघरल b_3_3_1
+label variable b_3_3_1 "Total Labour income"
+rename कलकषआय b_3_3_2
+label variable b_3_3_2 " Total Agricultural income"
+rename दसरसउपहर b_3_3_3
+label variable b_3_3_3 "Gifts from others"
+rename पशन b_3_3_4
+label variable b_3_3_4 "Pension"
+rename सथनतरणआयसरकरसमजक b_3_3_5
+label variable b_3_3_5 "Transfer Income"
+rename पछलसपतहकदरनघरलखरच b_3_4
+label variable b_3_4 "Household expenditure during past week"
+rename कलखरच b_3_4_1
+label variable b_3_4_1 "Total expenditure"
+rename घरपरभजनकखरचशकहरऔर b_3_4_2
+label variable b_3_4_2 "Food expenditure at home"
+rename खनघरसदर b_3_4_3
+label variable b_3_4_3 "Food expenditure away from home"
+rename गर-अलकहलपयकफचयजसआ b_3_4_4
+label variable b_3_4_4 "Non-alcoholic drinks expenditure"
+rename मदकपय b_3_4_5
+label variable b_3_4_5 "Alcoholic drinks expenditure"
+rename सगरट b_3_4_6
+label variable b_3_4_6 "Cigarette expenditure"
+rename गटखएवअनयतमबकउतपद b_3_4_7
+label variable b_3_4_7 "Gutka and other tobacco products expenditure"
+rename पछलछहमहनकदरनघरकखर b_3_5
+label variable b_3_5 "Household expenditure during past 6 months"
+rename कपड़कखरचजतसहत b_3_5_1
+label variable b_3_5_1 "Clothing Expenditure"
+rename आवसवयय b_3_5_2
+label variable b_3_5_2 "Housing Expenditure"
+rename सवचछतएवअनयपरसधनसम b_3_5_3
+label variable b_3_5_3 "Expenditure on hygiene and toiletries"
+rename सवसथयवययडकटरकफसऔर b_3_5_4
+label variable b_3_5_4 "Health Expenditure"
+rename कलयतरपरवयय b_3_5_5
+label variable b_3_5_5 "Expenditure on overall travel"
+rename शकषवययटयशनफसयतरआद b_3_5_6
+label variable b_3_5_6 "Education Expenditure"
+rename तयहरपरखरच b_3_5_7
+label variable b_3_5_7 " Expenditure on festivals"
+rename परतयगपरकषओपरवययपर b_3_5_8
+label variable b_3_5_8 " Expenditure on competitive exams"
+rename अनयपरवरकभजगईधनरश b_3_5_9
+label variable b_3_5_9 "Remittance sent to other households"
+rename आवसयघरकववरण b__4
+label variable b__4 " Details of Residential House"
+rename कलकषतरफलवरगफटवरगग b_4_1
+label variable b_4_1 "Total Area(Sq. Ft/Sq. Yd)"
+rename शचलयकउपलबधत b_4_2
+label variable b_4_2 "Availability of toilet"
+rename बजलकनकशन b_4_3
+label variable b_4_3 "Electricity Connection"
+rename बजलकउपलबधतऔसतघटदन b_4_4
+label variable b_4_4 "Electricity availability (avg. hours/ day)"
+rename पनकपनकसरत b_4_5
+label variable b_4_5 "Source of Drinking Water"
+rename पनकपनकसरतकववरण b_4_6
+label variable b_4_6 "Details of Source of Drinking Water"
+rename बजलकमसकखरच b_4_7
+label variable b_4_7 " Electricity monthly expense"
+rename Sourceoflightener b_4_8
+label variable b_4_8 "Source of light energy"
+rename भमसवमतवएवखत b_5
+label variable b_5 "Landownership and Cultivation"
+rename कयपरवरकपसकईकषभमह b_5_1
+label variable b_5_1 " Does the household own any farm land?"
+rename यदहतकतनबघम b_5_2
+label variable b_5_2 " If yes, how much in bigha?"
+rename कयपरवरकपसकईगर-कषभ b_5_3
+label variable b_5_3 "Does the household own any non-farm land?"
+rename यदहँतकतनबघम b_5_4
+label variable b_5_4 "If yes, how much in bigha?"
+rename कयपरवरकपसकईजनवरह b_5_5
+label variable b_5_5 "Does the household own any animals?"
+rename सपतत b_6
+label variable b_6 "Assets"
+rename अबमआपसपछनचहतहकआपक b_6_1
+label variable b_6_1 " Things the household owns"
+rename सइकलसइकलसइकलसइकल b_6_1_1
+label variable b_6_1_1 "Cycle/Bicycle"
+rename सलईमशन b_6_1_2
+label variable b_6_1_2 "Sewing machine"
+rename जनरटरसट b_6_1_3
+label variable b_6_1_3 "Generator Set"
+rename मकसरगरइडर b_6_1_4
+label variable b_6_1_4 " Mixer/Grinder"
+rename मटरसइकलसकटर b_6_1_5
+label variable b_6_1_5 " Motor Cycle/Scooter"
+rename बलकएडवहइटटव b_6_1_6
+label variable b_6_1_6 " Black & White TV"
+rename रगनटव b_6_1_7
+label variable b_6_1_7 "Colour TV"
+rename कलर b_6_1_8
+label variable b_6_1_8 "Cooler"
+rename घड़ b_6_1_9
+label variable b_6_1_9 "Clock/watch"
+rename बजलकपख b_6_1_10
+label variable b_6_1_10 "Electric Fan"
+rename करसयमज b_6_1_11
+label variable b_6_1_11 "Chair or table"
+rename खट b_6_1_12
+label variable b_6_1_12 "Cot"
+rename टलफन b_6_1_13
+label variable b_6_1_13 "Telephone"
+rename मबइलफ़न b_6_1_14
+label variable b_6_1_14 "Mobile Phone"
+rename फरजरफरजरटर b_6_1_15
+label variable b_6_1_15 "Fridge/Refrigerator"
+rename परशरककर b_6_1_16
+label variable b_6_1_16 "Pressure cooker"
+rename कबलडशटव b_6_1_17
+label variable b_6_1_17 " Cable/Dish TV"
+rename कर b_6_1_18
+label variable b_6_1_18 "Car"
+rename एयरकडशनर b_6_1_19
+label variable b_6_1_19 "Air Conditioner"
+rename वशगमशन b_6_1_20
+label variable b_6_1_20 "Washing Machine"
+rename कपयटर b_6_1_21
+label variable b_6_1_21 "Computer"
+rename लपटप b_6_1_22
+label variable b_6_1_22 "Laptop"
+rename करडटकरडकसनकरडटकरड b_6_1_23
+label variable b_6_1_23 " Credit card"
+rename मइकरववओवन b_6_1_24
+label variable b_6_1_24 " Microwave oven"
+rename खनपकनकसटव b_6_1_25
+label variable b_6_1_25 " Cooking stove"
+rename परतभगयकबरमउनकमत-प b_1_7_1
+label variable b_1_7_1 " Questions about the participant asked to parents"
+rename Pवहपरतभगभवषयमकयकर b_1_7_2
+label variable b_1_7_2 "What does he/she plan to do in future?"
+rename Pवहपरतभगभवषयमकयकर b_1_7_2_1
+label variable b_1_7_2_1 "help in household chores at this home"
+rename Pवहपरतभगभवषयमकयकर b_1_7_2_2
+label variable b_1_7_2_2 "get married"
+rename Pवहपरतभगभवषयमकयकर b_1_7_2_3
+label variable b_1_7_2_3 " take tuitions"
+rename Pवहपरतभगभवषयमकयकर b_1_7_2_4
+label variable b_1_7_2_4 "do informal work"
+rename Pवहपरतभगभवषयमकयकर b_1_7_2_5
+label variable b_1_7_2_5 "continue higher education"
+rename Pवहपरतभगभवषयमकयकर b_1_7_2_6
+label variable b_1_7_2_6 "self-employed"
+rename Pवहपरतभगभवषयमकयकर b_1_7_2_7
+label variable b_1_7_2_7 "prepare for job"
+rename Pवहपरतभगभवषयमकयकर b_1_7_2_8
+label variable b_1_7_2_8 "do government job"
+rename Pवहपरतभगभवषयमकयकर b_1_7_2_9
+label variable b_1_7_2_9 " do private job"
+rename Pवहपरतभगभवषयमकयकर b_1_7_2_10
+label variable b_1_7_2_10 "Others"
+rename Pयदवहपरतभगउचचशकषज b_1_7_3
+label variable b_1_7_3 " Highest level of education he/she wants to pursue"
+rename Pकयवहपरतभगपछलबरहम b_1_7_4
+label variable b_1_7_4 "Has he/she been looking for job in the last 12 months?"
+rename Pपछलबरहमहनमवहपरतभ b_1_7_5
+label variable b_1_7_5 "Number of exams she sat for the last 12 months"
+rename PBपछलबरहमहनमउसनपर b_1_7_5B
+label variable b_1_7_5B "Number of interviews he/she sat for the last 12 months"
+rename Pवहपरतभगभवषयमकसतर b_1_7_6
+label variable b_1_7_6 "Job the participant wants to do in future"
+rename PAउसकमनमकसतरहकसरक b_1_7_6A
+label variable b_1_7_6A "Kind of government job he/she has in mind"
+rename PAउसकमनमकसतरहकसरक b_1_7_6A_1
+label variable b_1_7_6A_1 "Central government job through UPSC"
+rename PAउसकमनमकसतरहकसरक b_1_7_6A_2
+label variable b_1_7_6A_2 " Nationalized Banks"
+rename PAउसकमनमकसतरहकसरक b_1_7_6A_3
+label variable b_1_7_6A_3 " Indian Railways"
+rename PAउसकमनमकसतरहकसरक b_1_7_6A_4
+label variable b_1_7_6A_4 "SSC exam"
+rename PAउसकमनमकसतरहकसरक b_1_7_6A_5
+label variable b_1_7_6A_5 "Defense exam"
+rename PAउसकमनमकसतरहकसरक b_1_7_6A_6
+label variable b_1_7_6A_6 "Public sector undertaking jobs"
+rename PAउसकमनमकसतरहकसरक b_1_7_6A_7
+label variable b_1_7_6A_7 "Food corporation of India jobs"
+rename PAउसकमनमकसतरहकसरक b_1_7_6A_8
+label variable b_1_7_6A_8 "Kendriya Vidyalaya teaching post exams"
+rename PAउसकमनमकसतरहकसरक b_1_7_6A_9
+label variable b_1_7_6A_9 "UP police"
+rename PAउसकमनमकसतरहकसरक b_1_7_6A_10
+label variable b_1_7_6A_10 "UP Public service commission"
+rename PAउसकमनमकसतरहकसरक b_1_7_6A_11
+label variable b_1_7_6A_11 "UP Teaching eligibility (UP-TET)"
+rename PAउसकमनमकसतरहकसरक b_1_7_6A_12
+label variable b_1_7_6A_12 "UP State Eligibility Test (UP-SET)"
+rename PAउसकमनमकसतरहकसरक b_1_7_6A_13
+label variable b_1_7_6A_13 "UP High court recruitment"
+rename PAउसकमनमकसतरहकसरक b_1_7_6A_14
+label variable b_1_7_6A_14 "UP Lekpal Exams"
+rename PAउसकमनमकसतरहकसरक b_1_7_6A_15
+label variable b_1_7_6A_15 "Others"
+rename PAउसकमनमकसतरहकसरक b_1_7_6A_16
+label variable b_1_7_6A_16 "nan"
+rename PBवहकससतरपरसरकरनक b_1_7_6B
+label variable b_1_7_6B "Level at which he/she is aspiring to get the government job"
+rename Pकयवहपरतभगनकरकलएव b_1_7_7
+label variable b_1_7_7 "Moving out of the current location for job?"
+rename Pकयनकरखजनकममलमउसक b_1_7_8
+label variable b_1_7_8 "Does the participant have any specific restrictions in terms of job search?"
+rename Pकयनकरखजनकममलमउसक b_1_7_8_1
+label variable b_1_7_8_1 "closer to home"
+rename Pकयनकरखजनकममलमउसक b_1_7_8_2
+label variable b_1_7_8_2 "time flexibility"
+rename Pकयनकरखजनकममलमउसक b_1_7_8_3
+label variable b_1_7_8_3 "work-life balance"
+rename Pकयनकरखजनकममलमउसक b_1_7_8_4
+label variable b_1_7_8_4 "job security/position"
+rename Pकयनकरखजनकममलमउसक b_1_7_8_5
+label variable b_1_7_8_5 "part-time only"
+rename Pकयनकरखजनकममलमउसक b_1_7_8_6
+label variable b_1_7_8_6 "others"
+rename Pपछलसपतहमउसनपरतभग b_1_7_9
+label variable b_1_7_9 "Average number of hours he/she prepared for job market/entrance exams "
+rename Pजबमरकटखजकलएपछलबर b_1_7_10
+label variable b_1_7_10 "Kind of preparation he/she took in the last 12 months for job market/search"
+rename PBयदउसपरतभगकसरकरन b_1_7_10B
+label variable b_1_7_10B "Back-up plan"
+rename Pवहपरतभगकसउमरमशदक b_1_7_11
+label variable b_1_7_11 " Age at which the participant wants to get married"
+rename Pवहपरतभगकसउमरमपरव b_1_7_12
+label variable b_1_7_12 " Age at which he/she wants to start a family and have kids"
+rename Pआपकलएनकरकपरकरयनक b_1_7_13
+label variable b_1_7_13 "Whose opinion in family matters most while deciding job type or location?"
+rename Pसकपमनपरकअरथहबलकल b_1_7_14
+label variable b_1_7_14 "scale of 0 to 10, confidence of family member for participant to go out to work"
+rename Pसकसकलपरकमतलबहकवह b_1_7_15
+label variable b_1_7_15 "scale of 0 to 10, confidence of family memeber that he/she will land govt. job"
+rename Pआपककयलगतहकउसकपरत b_1_7_16
+label variable b_1_7_16 "scale of 0 to 10, how easy for him/her to succeed in the job market"
+rename Pआपककयलगतहकउसकपरत b_1_7_17
+label variable b_1_7_17 "scale of 0 to 10, how easy for him/her to succeed in government job?"
+rename Pआपकअनसरनकरबजरमउस b_1_7_18
+label variable b_1_7_18 "Main obstacle he/she is facing in the job market"
+rename Pपछलदनमआपकऔसतनकसल b_1_9_1
+label variable b_1_9_1 "Physical health in past 7 days"
+rename Pपछलदनमआपकऔसतनकसल b_1_9_2
+label variable b_1_9_2 "Mental health in past 7 days"
+rename Pपरथमकतएँवरयतसरवक b_1_16
+label variable b_1_16 "Preferences"
+rename Pकयआपआमतरपरऐसवयकत b_1_16_1
+label variable b_1_16_1 "scale of 0 to 10, are you a person who is prepared to take risks?"
+rename Pआपबदलमकछभउममदकएब b_1_16_2
+label variable b_1_16_2 "scale of 0 to 10, willing to give to good causes without expecting anything?"
+rename Pभवषयमउससलभपनकलएआ b_1_16_3
+label variable b_1_16_3 "scale of 0 to 10, will to give something beneficial today for benefits in future"
+rename Pगरमकसपरकऔरअनकलन: b_1_2_2
+label variable b_1_2_2 "Heat exposure and adaptation"
+rename Pकपयनचशनयसलकरऊपरद b_1_2_2_1
+label variable b_1_2_2_1 "scale of 0 to 10, current heat situation in summer"
+rename Pसकपमनपरबलकलभसहजन b_1_2_2_2
+label variable b_1_2_2_2 "scale of 0 to 10, comfortability with the current heat situation"
+rename Pसकपमनपरबलकलभआशवस b_1_2_2_3
+label variable b_1_2_2_3 "scale of 0 to 10, confidence to handle life during summer heat"
+rename Pगरमयमआपकतनबरगरमऔ b_1_2_2_4
+label variable b_1_2_2_4 "Number of times exposed to heat and sun in the summers"
+rename Pकयआपगरमयमगरमककरण b_1_2_2_5
+label variable b_1_2_2_5 "Do you adjsut your time schedule due to heat in summers?"
+rename Pयदहँतआपकयकरतह b_1_2_2_6
+label variable b_1_2_2_6 "If yes, what do you do ?"
+rename Pयदहँतआपकयकरतहकईभ b_1_2_2_6_1
+label variable b_1_2_2_6_1 "Any strenuous activity in early morning"
+rename Pयदहँतआपकयकरतहजतन b_1_2_2_6_2
+label variable b_1_2_2_6_2 "Stay out of the sun"
+rename Pयदहँतआपकयकरतहसतल b_1_2_2_6_3
+label variable b_1_2_2_6_3 "Light breezy clothes"
+rename Pयदहँतआपकयकरतहबठन b_1_2_2_6_4
+label variable b_1_2_2_6_4 "Hunt for the coolest, breeziest spot when deciding to sit"
+rename Pयदहँतआपकयकरतहबसज b_1_2_2_6_5
+label variable b_1_2_2_6_5 "Not move too much"
+rename Pयदहँतआपकयकरतहबसज b_1_2_2_6_6
+label variable b_1_2_2_6_6 "Not eat too much, especially not heavy meals"
+rename Pयदहँतआपकयकरतहपदल b_1_2_2_6_7
+label variable b_1_2_2_6_7 "Taking a taxi instead of walking"
+rename Pयदहँतआपकयकरतहबर- b_1_2_2_6_8
+label variable b_1_2_2_6_8 "Frequent showers and change of clothes"
+rename PयदहँतआपकयकरतहNA b_1_2_2_6_9
+label variable b_1_2_2_6_9 "nan"
+rename Pआपगरमयमअपनकपड़कत b_1_2_2_9
+label variable b_1_2_2_9 "How often do you clean clothes in summer?"
+rename Pआपगरमयमअपनअडरगरम b_1_2_2_10
+label variable b_1_2_2_10 "How often do you clean your undergraments in the summer?"
+rename Pआपहरदनकतनबरनहतहक b_1_2_2_13
+label variable b_1_2_2_13 "How many times do you take bath everyday?"
+rename P“कपयएकसढ़ककलपनकर b_1_2_2_15
+label variable b_1_2_2_15 "scale of 0 to 10, how would the future heat situation in summer be like?"
+rename _id _id
+label variable _id "_id"
+rename _index _index
+label variable _index "_index"
