@@ -1,0 +1,154 @@
+rename सकषतकरकतथ A
+label variable A "Date of Interview"
+rename सकषतकरलनवलकनम B
+label variable B "Interviewer's name"
+rename LocationID LocationID
+label variable LocationID "Location ID"
+rename LocationName LocationName
+label variable LocationName "Location Name"
+rename पहचनठकसपषटकर b_1
+label variable b_1 "Identity"
+rename UniqueID UniqueID
+label variable UniqueID "Unique ID"
+rename परतभगबचचकनम b_0
+label variable b_0 "Name of the participant"
+rename पतमतकनमपहलनम b__1
+label variable b__1 "Household head's name "
+rename परवरकनमउपनम b_2
+label variable b_2 "Family name/Surname"
+rename AMobileNoPrimary b_3A
+label variable b_3A "Mobile No. (Primary)"
+rename BMobileNoConfirm b_3B
+label variable b_3B "Mobile No.(Confirm)"
+rename वहवयकतकनह b_4
+label variable b_4 "Who is the person?"
+rename P223वयवसयऔरकमईससब b_2_2_3
+label variable b_2_2_3 "Occupation and Earning"
+rename P2231आपकपरथमकवयवस b_2_2_3_1
+label variable b_2_2_3_1 "Primary occupation"
+rename P2232आपकपरवरकमखयक b_2_2_3_2
+label variable b_2_2_3_2 "Primary occupation of the main earning member"
+rename परतभगयकबरमउनकमतपत P
+label variable P "Questions about the participant asked to parents"
+rename P272वहपरतभगभवषयमक b_2_7_2
+label variable b_2_7_2 "What does the participant plan to do in future?"
+rename P272वहपरतभगभवषयमक b_2_7_2_1
+label variable b_2_7_2_1 "help in household chores at this home"
+rename P272वहपरतभगभवषयमक b_2_7_2_2
+label variable b_2_7_2_2 "get married"
+rename P272वहपरतभगभवषयमक b_2_7_2_3
+label variable b_2_7_2_3 "take tuitions"
+rename P272वहपरतभगभवषयमक b_2_7_2_4
+label variable b_2_7_2_4 "do informal work"
+rename P272वहपरतभगभवषयमक b_2_7_2_5
+label variable b_2_7_2_5 "continue higher education"
+rename P272वहपरतभगभवषयमक b_2_7_2_6
+label variable b_2_7_2_6 "self-employed"
+rename P272वहपरतभगभवषयमक b_2_7_2_7
+label variable b_2_7_2_7 " prepare for job"
+rename P272वहपरतभगभवषयमक b_2_7_2_8
+label variable b_2_7_2_8 "do goverment job"
+rename P272वहपरतभगभवषयमक b_2_7_2_9
+label variable b_2_7_2_9 "do private job"
+rename P272वहपरतभगभवषयमक b_2_7_2_10
+label variable b_2_7_2_10 "Others"
+rename P273यदवहपरतभगउचचश b_2_7_3
+label variable b_2_7_3 "Highest level of education he/she wants to pursue"
+rename P274कयवहपरतभगपछलब b_2_7_4
+label variable b_2_7_4 "Has the participant been looking for any job in the last 12 months?"
+rename P275पछलबरहमहनमवहप b_2_7_5
+label variable b_2_7_5 "Number of exams he/she sat for in the last 12 months"
+rename P275Bपछलबरहमहनमवह b_2_7_5B
+label variable b_2_7_5B "Number of interviews he/she sat for in the last 12 months"
+rename P276वहपरतभगभवषयमक b_2_7_6
+label variable b_2_7_6 "Kind of job that he/she wants to do in future"
+rename P276Aउसकमनमकसतरहक b_2_7_6A
+label variable b_2_7_6A "Kind of government job that he/she aspires"
+rename P276Aउसकमनमकसतरहक b_2_7_6A_1
+label variable b_2_7_6A_1 " Central government job through UPSC like IAS, IPS etc."
+rename P276Aउसकमनमकसतरहक b_2_7_6A_2
+label variable b_2_7_6A_2 "Nationalized Banks"
+rename P276Aउसकमनमकसतरहक b_2_7_6A_3
+label variable b_2_7_6A_3 "Indian Railways"
+rename P276Aउसकमनमकसतरहक b_2_7_6A_4
+label variable b_2_7_6A_4 "SSC"
+rename P276Aउसकमनमकसतरहक b_2_7_6A_5
+label variable b_2_7_6A_5 "Defense exam such as NDA"
+rename P276Aउसकमनमकसतरहक b_2_7_6A_6
+label variable b_2_7_6A_6 "Public sector undertaking (PSU jobs)"
+rename P276Aउसकमनमकसतरहक b_2_7_6A_7
+label variable b_2_7_6A_7 "Food corporation of India (FCI) jobs"
+rename P276Aउसकमनमकसतरहक b_2_7_6A_8
+label variable b_2_7_6A_8 "Kendriya Vidyalaya teaching post exams"
+rename P276Aउसकमनमकसतरहक b_2_7_6A_9
+label variable b_2_7_6A_9 "UP police"
+rename P276Aउसकमनमकसतरहक b_2_7_6A_10
+label variable b_2_7_6A_10 "UP Public service commission"
+rename P276Aउसकमनमकसतरहक b_2_7_6A_11
+label variable b_2_7_6A_11 "UP Teaching eligibility test"
+rename P276Aउसकमनमकसतरहक b_2_7_6A_12
+label variable b_2_7_6A_12 "UP State Eligibility Test"
+rename P276Aउसकमनमकसतरहक b_2_7_6A_13
+label variable b_2_7_6A_13 "UP High Court recruitment"
+rename P276Aउसकमनमकसतरहक b_2_7_6A_14
+label variable b_2_7_6A_14 "UP Lekpal Exams"
+rename P276Aउसकमनमकसतरहक b_2_7_6A_15
+label variable b_2_7_6A_15 "Others"
+rename P276Aउसकमनमकसतरहक b_2_7_6A_16
+label variable b_2_7_6A_16 "nan"
+rename P276Bवहकससतरपरसरक b_2_7_6B
+label variable b_2_7_6B "At what level is he/she aspiring to get the govt. job?"
+rename P277कयवहपरतभगनकरक b_2_7_7
+label variable b_2_7_7 "Is he/she open to moving out of the current location for job?"
+rename P278कयनकरखजनकममलम b_2_7_8
+label variable b_2_7_8 "Does he/she have any specfic restrictions in terms of job search?"
+rename P278कयनकरखजनकममलम b_2_7_8_1
+label variable b_2_7_8_1 " Closer to home"
+rename P278कयनकरखजनकममलम b_2_7_8_2
+label variable b_2_7_8_2 "Time flexibility"
+rename P278कयनकरखजनकममलम b_2_7_8_3
+label variable b_2_7_8_3 "Work-life balance"
+rename P278कयनकरखजनकममलम b_2_7_8_4
+label variable b_2_7_8_4 "Job security/position"
+rename P278कयनकरखजनकममलम b_2_7_8_5
+label variable b_2_7_8_5 " Part-time only"
+rename P278कयनकरखजनकममलम b_2_7_8_6
+label variable b_2_7_8_6 "Others"
+rename P279पछलसपतहमउसनपर b_2_7_9
+label variable b_2_7_9 "Average number of hours he /she prepared for job market/entrance exams"
+rename P2710जबमरकटखजकलएप b_2_7_10
+label variable b_2_7_10 "Kind of preparation he/she took in the last 12 months for the job market/search"
+rename P2710Bयदउसपरतभगकस b_2_7_10B
+label variable b_2_7_10B "Back-up plan"
+rename P2711वहपरतभगकसउमर b_2_7_11
+label variable b_2_7_11 "Age at which he/she wants the participant to get married?"
+rename P2712वहपरतभगकसउमर b_2_7_12
+label variable b_2_7_12 "Age at which he/she wanted the participant to start a family"
+rename P2713आपकलएनकरकपरक b_2_7_13
+label variable b_2_7_13 " For you, which family member's opinion matters most while deciding the job type"
+rename P27140स10कपमनपर0क b_2_7_14
+label variable b_2_7_14 "scale of 0 to 10, your confidence that he/she will go out to work"
+rename P27150स10कसकलपर0क b_2_7_15
+label variable b_2_7_15 "scale of 0 to 10, your confidence that he/she will land a govt. job"
+rename P2716आपककयलगतहकउस b_2_7_16
+label variable b_2_7_16 "scale of 0 to 10, how easy for him/her to succeed in the job market?"
+rename P2717आपककयलगतहकउस b_2_7_17
+label variable b_2_7_17 "scale of 0 to 10, how easy for him/her to succeed in government job market"
+rename P2718आपकअनसरनकरबज b_2_7_18
+label variable b_2_7_18 "Main obstacle that he/she is facing in the job market"
+rename P291पछल7दनमआपकऔसत b_2_9_1
+label variable b_2_9_1 "General Health"
+rename P292पछल7दनमआपकऔसत b_2_9_2
+label variable b_2_9_2 "Mental health"
+rename P216परथमकतएँवरयतस b_2_16
+label variable b_2_16 "Preferences"
+rename P2161कयआपआमतरपरऐस b_2_16_1
+label variable b_2_16_1 "scale of 0 to 10, are you prepared to take risks?"
+rename P2162आपबदलमकछभउमम b_2_16_2
+label variable b_2_16_2 "scale of 0 to10, how willing are you to give to good causes without expecting?"
+rename P2163भवषयमउससलभपन b_2_16_3
+label variable b_2_16_3 "scale of 0 to10, will to give up something beneficial today to benefit in future"
+rename id _id
+label variable _id "_id"
+rename index _index
+label variable _index "_index"

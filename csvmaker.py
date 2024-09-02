@@ -9,7 +9,7 @@ import pandas as pd
 from preprocess import remove_matras_and_replace  # Import the function
 
 # Load the .dta file
-dta_file = r'data\Unemployment_Baseline_Respondent_Data.dta'
+dta_file = r'data\Unemployment_Baseline_Parents_2_Data.dta'
 itr = pd.read_stata(dta_file, iterator=True)
 
 # Extract the variable labels
@@ -19,7 +19,7 @@ variable_labels = itr.variable_labels()
 dta_df = pd.DataFrame(list(variable_labels.items()), columns=['Stata_Name', 'Stata_Label'])
 
 # Load the Excel file
-file_path = r'data\Unemployment_Baseline_Respondent_Data.xlsx'  # Update this with the path to your Excel file
+file_path = r'data\Unemployment_Baseline_Parents_2_Data.xlsx'  # Update this with the path to your Excel file
 
 # Read the Excel file and treat the first row as header
 excel_df = pd.read_excel(file_path, header=None)

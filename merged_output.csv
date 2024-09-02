@@ -1,349 +1,78 @@
 XLXS_COLUMN,Stata_Name,Stata_Label
-सकषतकरकतथ,b_A,Date of Interview
-सकषतकरलनवलकनम,b_B,Name of the interviewer
+सकषतकरकतथ,A,Date of Interview
+सकषतकरलनवलकनम,B,Interviewer's name
 LocationID,LocationID,Location ID
 LocationName,LocationName,Location Name
-पहचनठकसपषटकर,b_0,Identity
+पहचनठकसपषटकर,b_1,Identity
 UniqueID,UniqueID,Unique ID
-परतवदपहलनम,b_1,Respondent(1st name)
-परवरकनमउपनम,b_2,Family name/surname
-घरकमखयकनम,b_3,Household head's name
-AMobileNoPrimary,b_3A,Mobile no.(Primary)
-BMobileNoConfirm,b_3B,Mobile no.(confirm primary)
-रशनकरडकपरकर,b_4,Ration card type
-परवरकववरण,b_5,Details of family
-धरम,b_6,Religion
-जत,b_7,Caste
-नवसककषतर,b_8,Region of Residence
-घरकसवमतव,b_9,Home-ownership
-घरलजनकर,b_2_1,Household information
-Respondentखद,b__1,Respondent
-परतवदकनम,b_2_0_1,Respondent's name
-लग,b_2_1_1,Sex
-घरकमखयससबध,b_2_2_1,Relationship with HH head
-आयपरवरषम,b_2_3_1,Age
-वकलगत,b_2_4_1,Disability
-ववहकसथत,b_2_5_1,Marital Status
-शकषणकयगयत,b_2_6_1,Educ. Qualification
-Bसकषरतकसतर,b_2_6B_1,Literacy level
-रज़गरकसथत,b_2_7_1,Employment status
-लबअवधकबमरजसकलएदखभ,b_2_8_1,Long term illness that require care
-कयआपघरकमखयह,b_2_9_1,Are you the household head?
-पछलछहमहनमवहकतनबरब,b_2_10_1,How many times did he/she fall sick in last 6 months?
-बमरकयथ,b_2_11_1,What was the disease?
-पत,b__2_2,Father
-पतकनम,b_2_0_2,Father's name
-लग,b_2_1_2,Sex
-घरकमखयससबध,b_2_2_2,Relationship with HH head
-आयपरवरषम,b_2_3_2,Age
-वकलगत,b_2_4_2,Disability
-ववहकसथत,b_2_5_2,Marital Status
-शकषणकयगयत,b_2_6_2,Educ. Qualification
-Bसकषरतकसतर,b_2_6B_2,Literacy level
-रज़गरकसथत,b_2_7_2,Employment status
-लबअवधकबमरजसकलएदखभ,b_2_8_2,Long term illness that require care
-कयआपघरकमखयह,b_2_9_2,Are you the household head?
-पछलछहमहनमवहकतनबरब,b_2_10_2,How many times did he/she fall sick in last 6 months?
-बमरकयथ,b_2_11_2,What was the disease?
-मँ,b_2_3,Mother
-मँकनम,b_2_0_3,Mother's name
-लग,b_2_1_3,Sex
-घरकमखयससबध,b_2_2_3,Relationship with HH head
-आयपरवरषम,b_2_3_3,Age
-वकलगत,b_2_4_3,Disability
-ववहकसथत,b_2_5_3,Marital Status
-शकषणकयगयत,b_2_6_3,Educ. Qualification
-Bसकषरतकसतर,b_2_6B_3,Literacy level
-रज़गरकसथत,b_2_7_3,Employment status
-लबअवधकबमरजसकलएदखभ,b_2_8_3,Long term illness that require care
-कयआपघरकमखयह,b_2_9_3,Are you the household head?
-पछलछहमहनमवहकतनबरब,b_2_10_3,How many times did he/she fall sick in last 6 months?
-बमरकयथ,b_2_11_3,What was the disease?
-भई-बहनयदकईहअधमनतः,b_2_4,Sibling
-भई-बहनकनम,b_2_0_4,Name
-लग,b_2_1_4,Sex
-घरकमखयससबध,b_2_2_4,Relationship with HH head
-आयपरवरषम,b_2_3_4,Age
-वकलगत,b_2_4_4,Disability
-ववहकसथत,b_2_5_4,Marital Status
-शकषणकयगयत,b_2_6_4,Educ. Qualification
-Bसकषरतकसतर,b_2_6B_4,Literacy level
-रज़गरकसथत,b_2_7_4,Employment status
-लबअवधकबमरजसकलएदखभ,b_2_8_4,Long term illness that require care
-कयआपघरकमखयह,b_2_9_4,Are you the household head?
-पछलछहमहनमवहकतनबरब,b_2_10_4,How many times did he/she fall sick in the last 6 months?
-बमरकयथ,b_2_11_4,What was the disease?
-वयवसयऔरकमईससबधत,b_2__3,Occupation and Earning
-आपकपरथमकवयवसयकयह,b__2_3_1,Primary Occupation
-आपकपरवरकमखयकमनवलस,b__2_3_2,Primary occupation of the main earning member
-जवनकसतषट,b__7,Health
-सभबतपरवचरकरतआपअपन,b_7_1_1,Level of satisfaction with life
-आपअपनजवनसतरसकतनसत,b_7_1_2,Level of satisfaction with standard of living
-आपअपनभवषयकसरकषसकत,b_7_1_3,Level of satisfaction with future security
-आपअपनआरथकसथतसकतनस,b_7_1_4,Level of satisfaction with financial situation
-मत-पतकअपकषओऔरदबवक,b_7_2,What do you plan to do in future?
-आपभवषयमकयकरनकयजनब,CE,"To examine parental expectations, ask respondent and parents"
-आपभवषयमकयकरनकयजनब,b_7_2_1,help in household chores at this home
-आपभवषयमकयकरनकयजनब,b_7_2_2,get married
-आपभवषयमकयकरनकयजनब,b_7_2_3,take tuitions
-आपभवषयमकयकरनकयजनब,b_7_2_4,do informal work
-आपभवषयमकयकरनकयजनब,b_7_2_5,continue higher education
-आपभवषयमकयकरनकयजनब,b_7_2_6,self-employed
-आपभवषयमकयकरनकयजनब,b_7_2_7,prepare for job
-आपभवषयमकयकरनकयजनब,b_7_2_8,do government job
-आपभवषयमकयकरनकयजनब,b_7_2_9,do private job
-आपभवषयमकयकरनकयजनब,b_7_2_10,Others
-यदआपउचचशकषजररखनचह,b_7_3,Highest level of education he/she wants to pursue
-कयआपपछलबरहमहनमकसन,b_7_4,Looking for job in last 12 months?
-पछलबरहमहनमआपकतनपर,b_7_5,sit for exams in last 12 months?
-Bपछलबरहमहनमआपनकतन,b_7_5B,Nunber of interviews he/she sat for last 12 months
-आपभवषयमकसतरहकनकरक,b_7_6,Kind of job he/she wants to do in future
-Aउसकमनमकसतरहकसरकर,b_7_6A,Kind of government job that he/she has in mind
-Aउसकमनमकसतरहकसरकर,b_7_6A_1,Central government job through UPSC
-Aउसकमनमकसतरहकसरकर,b_7_6A_2,Nationalized Banks
-Aउसकमनमकसतरहकसरकर,b_7_6A_3,Indian Railways
-Aउसकमनमकसतरहकसरकर,b_7_6A_4,SSC
-Aउसकमनमकसतरहकसरकर,b_7_6A_5,Defense exams
-Aउसकमनमकसतरहकसरकर,b_7_6A_6,Public sector undertaking jobs
-Aउसकमनमकसतरहकसरकर,b_7_6A_7,FCI jobs
-Aउसकमनमकसतरहकसरकर,b_7_6A_8,Kendriya Vidyalaya teaching post exams
-Aउसकमनमकसतरहकसरकर,b_7_6A_9,UP Police
-Aउसकमनमकसतरहकसरकर,b_7_6A_10,UP Public service commission
-Aउसकमनमकसतरहकसरकर,b_7_6A_11,UP Teaching eligibility test
-Aउसकमनमकसतरहकसरकर,b_7_6A_12,UP State Eligibility Test
-Aउसकमनमकसतरहकसरकर,b_7_6A_13,UP High Court recruitment
-Aउसकमनमकसतरहकसरकर,b_7_6A_14,UP Lekpal Exams
-Aउसकमनमकसतरहकसरकर,b_7_6A_15,Others
-Aउसकमनमकसतरहकसरकर,b_7_6A_16,NA
-Bवहकससतरपरसरकरनकर,b_7_6B,7.6B वह किस स्तर पर सरकारी नौकरी पाने की इच्छा रखता है?
-कयआपनकरकलएवरतमनसथ,b_7_7,Are you open to moving out of current location for job?
-कयनकरखजकसबधमआपकपस,b_7_8,Do you have any specific restrictions in terms of job search?
-कयनकरखजकसबधमआपकपस,b_7_8_1,closer to home
-कयनकरखजकसबधमआपकपस,b_7_8_2,time flexibility
-कयनकरखजकसबधमआपकपस,b_7_8_3,work-life balance
-कयनकरखजकसबधमआपकपस,b_7_8_4,job security/pension
-कयनकरखजकसबधमआपकपस,b_7_8_5,part-time only
-कयनकरखजकसबधमआपकपस,b_7_8_6, Others
-पछलसपतहकदरनआपनजबम,b_7_9,Number of hours you prepared for job market/entrance exams
-जबमरकटखजकलएपछलबरह,b_7_10,Kind of preparation he/she took in last 12 months for job market/search
-Bअगरआपकसरकरनकरनहम,b_7_10B,Back-up plan
-आपकसउमरमशदकरनचहतह,b_7_11,Age at which he/she wants to get married
-आपकसउमरमपरवरशरकरन,b_7_12,Age at which he/she would like to start a family
-आपकलएनकरकपरकरयनकर,b_7_13,Family member's opinion that matters most while deciding the job type
-सकपमनपरबलकलभआशवसत,b_7_14,"scale of 0 to 10, confidence to go out to work"
-सकपमनपरबलकलभआशवसत,b_7_15,"scale of 0 to 10, confidence that he/she will land a govt. job"
-आपककयलगतहकनकरकबज़,b_7_16,level of difficulty to succeed in job market
-आपककयलगतहकसरकरनकर,b_7_17,level of difficulty to succeed in government job market
-आपकअनसरनकरबज़रमआप,b_7_18,Main obstacle he/she is facing in the job market
-समय-उपयगऔरगतवधयँआ,b_7_19,Time-use and Activities
-वतनभगकम,b_7_19_1,Paid work
-कलजवशववदयलयजनपढ़ई,b_7_19_2,"Attending college/university, studies etc."
-नकरपरशकषणआदकतयर,b_7_19_3,Preparation for jobs/training etc.
-घरलकम,b_7_19_4,Household chores
-आरमकरनशकटवदखनआद,b_7_19_5,Relax/Hobby watching TV etc.
-सन,b_7_19_6,Sleeping
-समजकमलजलफ़नपरआद,b_7_19_7,Socializing
-शररकवययमययग,b_7_19_8,Physical exercise or yoga
-बचचकदखभलबजरगकदखभल,b_7_19_9,Child care/elderly care
-अनय,b_7_19_10,Others
-इसपरतवदकपढ़:,b__8,Read this out to respondent
-सभचजकएकसथमलकरआपकह,b_8_1,How happy would you say you are?
-जवनकसभवनकसढ़कटरलस,b_8_2,Ladder of life possibility
-आमतरपरकछलगजखमलनपस,b_8_3,Willingness to take risks
-सकपमनपरआपकजवनमधरम,b_8_4,Importance of religion in life
-पछलदनमआपकऔसतनकसलग,b_9_1,General Health
-पछलदनमआपकऔसतनकसलग,b_9_2,Mental Health
-चतऔरअवसदकलएरगसवसथ,b_10,Patient Health Questionnaire
-घबरहटबचनयघबरहटमहस,b_10_1,"Feeling nervous, anxious or on edge?"
-चतकरकनयनयतरतकरनमस,b_10_2,Not being able to stop or control worrying?
-उदसउदसयनरशमहससकरन,b_10_3,"Feeling down, depressed or hopeless"
-करयककरनमकमरचयआनद,b_10_4,Little interest or pleasure in doing things
-डरलगरहहजसकछभयनकघट,b_10_5,Feeling afraid as if something awful might happen?
-मजदपरसथतयमपछलदहफत,b_11,"Under current circumstances, over past 2 weeks"
-आपअपनभवषयकलकरकतनअ,b_11_1,Level of uncertainty about future
-आपअपनभवषयकलकरकतनन,b_11_2,How hopeless are you about your future?
-आपनसमजकरपसकतनजड़व,b_11_3,How socially connected have you felt?
-दस-आइटमवयकततवसच-ट,b_12,Ten-Item Personality Inventory
-बहरमखउतसह।,b_12_1,"Extraverted, enthusiastic"
-नदकझगड़ल।,b_12_2,"Critical, quarrelsome"
-भरसमदआतम-अनशसत।,b_12_3,"Dependable, self-disciplined"
-चततआसनसपरशनहन।,b_12_4,"Anxious, easily upset'"
-नएअनभवकलएखलजटल।,b_12_5,"Open to new experiences, complex"
-आरकषतशत,b_12_6,"Reserved, quiet"
-सहनभतपरणगरमजशपरण।,b_12_7,"Sympathetic, warm"
-अवयवसथतलपरवह।,b_12_8,"Disorgainzed, careless"
-शतभवनतमकरपससथर।,b_12_9,"Calm, emotionally stable"
-परमपरगतअरचनतमक।,b_12_10,"Conventional, uncreative"
-आतमसममनससमबधतपरशन,b_13,Questions related to self-esteem'
-आपनहलहमकतनउपयगमहस,b_13_1,How useful have you felt recently?
-हलहमआपसवयककतनबकरव,b_13_2,How much have you been thinking of yourself as worthless person
-नयतरणरखससबधतपरशन:,b_14,Question related to Locus of Control
-मरसथजकछघटतहतहउसपर,b_14_1,I have little control over the things that happen to me
-वसतवमऐसकईतरकनहहजस,b_14_2,There is no way I can solve some of the problems I have.
-मअपनजवनककईमहतवपरण,b_14_3,There is little I can do to change many important things in life.
-मअकसरजवनकसमसयओसनप,b_14_4,I often feel helpless in dealing with the problems of life.
-कभ-कभमझलगतहकमझजवन,b_14_5,Sometimes I feel that I'm being pushed around in life.
-भवषयममरसथकयहगयहअध,b_14_6,What happens to me in future mostly depends on me.
-मवहसबकछकरसकतहजसकर,b_14_7,I can do just about anything I really set my mind to do.
-मबइलऔरइटरनटतकपहच,b_15,Access to mobile and internet.
-तमहरपसअपनमबईलफ़नह,b_15_1,Do you own a mobile phone?
-यदQहँहतकयवहसमरटफ़,b_15_1_1,"If yes to Q.15.1, is that a smartphone?"
-कयआपकघरमइटरनटकसवध,b_15_2,Do you have access to internet within household?
-यदपरशनकलएहँहतइटरन,b_15_2_1,What do you use internet for?
-यदपरशनकलएहँहतइटरन,b_15_2_1_1,Chatting/calling
-यदपरशनकलएहँहतइटरन,b_15_2_1_2,Social media
-यदपरशनकलएहँहतइटरन,b_15_2_1_3,Education purpose
-यदपरशनकलएहँहतइटरन,b_15_2_1_4,Entertainment
-यदपरशनकलएहँहतइटरन,b_15_2_1_5,Online shopping
-यदपरशनकलएहँहतइटरन,b_15_2_1_6,Other
-आपकतनबरकससरतससमचर,b_15_3,How often do you read news from any source?
-आपकसमचरकसबससमनयसर,b_15_4,Most usual source of your news?
-आपकसमचरकसबससमनयसर,b_15_4_1,Newspapers
-आपकसमचरकसबससमनयसर,b_15_4_2,Television
-आपकसमचरकसबससमनयसर,b_15_4_3,Radio
-आपकसमचरकसबससमनयसर,b_15_4_4,Social Media
-आपकसमचरकसबससमनयसर,b_15_4_5,Messaging Apps
-आपकसमचरकसबससमनयसर,b_15_4_6,Neighbours/friends/relatives/children
-आपकसमचरकसबससमनयसर,b_15_4_7,Others
-कयआपऐसससधनहलपलइनन,b_15_5,Are you aware of resources that intend to help youth with getting jobs?
-यदपरशनकउततरहहतकयआ,b_15_5_1,"Have you or anyone you know, ever used these resources?"
-परथमकतएँवरयतसरवकष,b_16,Preferences
-कयआपआमतरपरऐसवयकतह,b_16_1,Are you generally a person who is fully prepared to take risks?
-आपबदलमकछभउममदकएबन,b_16_2,How willing are you to give to good causes without expecting anything?
-भवषयमउससलभपनकलएआप,b_16_3,How willing are you to give something beneficial today to benefit future?
-सवयतततपरदकवलआधररख,b_17,Autonomy/purdah
-कयआपकआमतरपरघरसबहर,b_17_1,Are you allowed to go out of house in public on your own?
-कयआपकइनसथनपरजनकलए,b_17_2,Do you need permission from any of these to go out to these places?
-कयआपघघटबरखपरदपललक,b_17_3,Do you practice ghungat/burkha/purdah/pallu?
-यदहँतकयआपइसकअभयसक,b_17_4,"If yes, do you practice it in front of relatives only or other people too?"
-जबआपकपरवरमखयभजनकर,b_17_5,Do women usually eat with men?
-कयआपशरबडरगसधमरपनक,b_17_6,Do you consume alcohol/drugs/smoke?
-कयआपकपसघरलखरचपरखर,b_17_7,Do you yourself have any cash in hand to spend on hosehold expenditure?
-कयआपकनमपरकईबकखतह,b_17_8,Do you have a bank account in your name?
-कयआपकघरकसवमतवयकरय,b_17_9,Is your name on the ownership or rental papers for your home?
-कयआपककईपसददसथहपरम,b_17_10,Do you have a preferred partner?
-नरणयलन,b_18,Decision-making
-रजनकयपकनह,b_18_1,What to cook on a daily basis?
-टवयफरजजसमहगवसतखरद,b_18_2,Whether to buy an expensive item such as TV or fridge?
-अगरआपबमरपड़जएतकयक,b_18_3,What to do if you fall sick?
-पढ़ईजररखनहयनह,b_18_4,Whether to continue study or not?
-जमनयपरपरटखरदनहयनह,b_18_5,Whether to buy land or property?
-शदजससमजकसमरहपरकतन,b_18_6,How much money to spend on a social function such as marriage?
-आपककबशदकरनचहए,b_18_7,When you should get married?
-आपकमकरसकतहयनह,b_18_8,Whether you can work or not?
-आपककसतरहककमकरनचहए,b_18_9,What kind of job you should do?
-परवरककमईकउपयगकसकय,b_18_10,How family earnings will be used?
-एसडएससमजकवछनयतसकर,b_19,SDS Social Desirability Score
-यदमझपरतसहतनहकयजतह,b_19_1,It is sometimes hard for me to go on with my work if I am not encouraged.
-जबमझअपनरसतनहमलततम,b_19_2,I sometimes feel resentful when I don't get my way.
-कछअवसरपरमनकछकरनछड,b_19_3,I have given up doing something because I thought too little of my ability.
-कईबरऐसहआजबमझसततमब,b_19_4,Sometimes I felt like rebelling against people in authority 
-इससकईफरकनहपड़तकमक,b_19_5,I'm always a good listener.
-ऐसमकआएजबमनकसकफयदउ,b_19_6,There are occasions when I took advantage of someone.
-जबमकईगलतकरतहतमउसस,b_19_7,I'm always willing to admit it when I make a mistake.
-मकभ-कभमफकरनऔरभलनक,b_19_8,I sometimes try to get even rather than forgive.
-मसदववनमररहतहयहतकक,b_19_9,"I am always courteous,even to people who are disagreeable.'"
-जबलगनमझसबलकलअलगवच,b_19_10,I have never been irked when people expressed ideas very different.
-कईबरमझदसरकअचछभगयस,b_19_11,Sometimes I was quite jealous of the good fortune of others.
-मकभ-कभउनलगसचढ़जतह,b_19_12,I am sometimes irritated by people who ask favours of me.
-मनजनबझकरकछऐसकहहजस,b_19_13,I have deliberately said something that hurt someone's feelings.
--कपमनपरनमनलखतकथनक,b_19_14,I want to be a respectful person in my slum.
-धरमकतपर:,b_20,On religiosity
-पछलएकमहनसआपकतनबरच,b_20_1,How often do you take part in activities other than attending services?
-पछलएकमहनसआपनकतनबर,b_20_2,How many times have you prayed since the last month?
-कयआपखदकइसरपमवरणतक,b_20_3,Would you describe yourself as
-कयआपइसबतससहमतहयअस,b_20_4,Do you agree or disagree that practicing a religion helps people to
-कयआपइसबतससहमतहयअस,b_20_4_1,find inner peace and happiness.
-कयआपइसबतससहमतहयअस,b_20_4_2,make friends
-कयआपइसबतससहमतहयअस,b_20_4_3,gain comfort in times of trouble or sorrow.
-कयआपइसबतससहमतहयअस,b_20_4_4,meet the right kind of people.
-कयआपइसबतससहमतहयअस,b_20_4_5,get what you want
-कयआपइसबतससहमतहयअस,b_20_4_6,have a happy life
-अधकसअधकतनमतरकगणनक,b_21,Enumerate at most three friends that are close to you
-नम,b_21_1_1,Name 
-धरम,b_21_1_2,Religion
-जत,b_21_1_3,Caste
-तमउसकसजनतह,b_21_1_4,How do you know her?
-लग,b_21_1_5,"Fenale=1, Male=0"
-आपउसकबसजनतहवरषम,b_21_1_6,How long have you known him/her?
-आपउससकनमददपरचरचकर,b_21_1_7,What matters do you discuss with him/her?
-आपउससकनमददपरचरचकर,b_21_1_7_1,personal matters
-आपउससकनमददपरचरचकर,b_21_1_7_2,education-related matters
-आपउससकनमददपरचरचकर,b_21_1_7_3,job-market related matters
-आपउससकनमददपरचरचकर,b_21_1_7_4,agricultural matters
-आपउससकनमददपरचरचकर,b_21_1_7_5,health matters
-आपउससकनमददपरचरचकर,b_21_1_7_6,financial matters
-आपउससकनमददपरचरचकर,b_21_1_7_7,Others
-आपकतनबरउसकसथमददपर,b_21_1_8,How frequently do you discuss matters with him/her?
-कपयहमउसकमबइलनबरद,b_21_1_9,Please give us his/her mobile number
-नम,b_21_2_1,Name
-धरम,b_21_2_2,Religion
-जत,b_21_2_3,Caste
-तमउसकसजनतह,b_21_2_4,How do you know her?
-लग,b_21_2_5,"Female=1, Male=0"
-आपउसकबसजनतहवरषम,b_21_2_6,How long have you known him/her?
-आपउससकनमददपरचरचकर,b_21_2_7,What matters do you discuss with him/her?
-आपउससकनमददपरचरचकर,b_21_2_7_1,personal matters
-आपउससकनमददपरचरचकर,b_21_2_7_2,education-related matters
-आपउससकनमददपरचरचकर,b_21_2_7_3,job-market related matters.
-आपउससकनमददपरचरचकर,b_21_2_7_4,agricultural matters.
-आपउससकनमददपरचरचकर,b_21_2_7_5,health matters
-आपउससकनमददपरचरचकर,b_21_2_7_6,financial matters
-आपउससकनमददपरचरचकर,b_21_2_7_7,Others
-आपकतनबरउसकसथमददपर,b_21_2_8,How frequently do you discuss matters with him/her?
-कपयहमउसकमबइलनबरद,b_21_2_9,Please give us his/her mobile number
-नम,b_21_3_1,Name
-धरम,b_21_3_2,Religion
-जत,b_21_3_3,Caste
-तमउसकसजनतह,b_21_3_4,How do you know her?
-लग,b_21_3_5,"Female=1, Male=0"
-आपउसकबसजनतहवरषम,b_21_3_6,How long have you known him/her?
-आपउससकनमददपरचरचकर,b_21_3_7,What matters do you discuss with him/her?
-आपउससकनमददपरचरचकर,b_21_3_7_1,personal matters
-आपउससकनमददपरचरचकर,b_21_3_7_2,education-related matters
-आपउससकनमददपरचरचकर,b_21_3_7_3,job-market related matters
-आपउससकनमददपरचरचकर,b_21_3_7_4,agricultural matters
-आपउससकनमददपरचरचकर,b_21_3_7_5,health matters
-आपउससकनमददपरचरचकर,b_21_3_7_6,financial matters
-आपउससकनमददपरचरचकर,b_21_3_7_7,others
-आपकतनबरउसकसथमददपर,b_21_3_8,How frequently do you discuss matters with him/her?
-कपयहमउसकमबइलनबरद,b_21_3_9,Please give us his/her mobile number
-गरमकसपरकऔरअनकलन:,b_22,Heat exposure and adaptation
-कपयनचशनयसलकरऊपरदस,b_22_1,"scale of 0 to 10,the current heat situation in summer"
-सकपमनपरबलकलभसहजनह,b_22_2,"scale of 0 to 10, level of comfortability with current heat situation"
-सकपमनपरबलकलभआशवसत,b_22_3,"scale of 0 to 10, level of confidence that you can handle life during summer?"
-गरमयमआपकतनबरगरमऔर,b_22_4,How often are you exposed to heat and sun in the summers?
-कयआपगरमयमगरमककरणअ,b_22_5,Do you adjust your time schedule/lifestyle due to heat in summer?
-यदहँतआपकयकरतह,b_22_6,"If yes, what do you do?"
-यदहँतआपकयकरतहकईभम,b_22_6_1,Any strenuous activity is much better to do in early morning
-यदहँतआपकयकरतहजतनह,b_22_6_2,Stay out of the sun as much as possible.
-यदहँतआपकयकरतहसतलन,b_22_6_3,"Light breezy clothes made from cotton, linen etc."
-यदहँतआपकयकरतहबठनक,b_22_6_4,"Hunt for the coolest, breeziest spot when deciding on where to sit."
-यदहँतआपकयकरतहबसज़,b_22_6_5,Just don't move too much
-यदहँतआपकयकरतहबसज़,b_22_6_6,"Just don't eat too much, especially not heavy meals."
-यदहँतआपकयकरतहपदलच,b_22_6_7,Taking a taxi instead of walking does make sense.
-यदहँतआपकयकरतहबर-ब,b_22_6_8,Frequent showers and change of clothes
-यदहँतआपकयकरतहNA,b_22_6_9,NA
-कयआपगरमयमगरमककरणक,b_22_7,Do you attend less classes/tuition due to the heat in the summers?
-कयआपकपसनकरकतलशकमम,b_22_8,Any restrictions  in terms of job search that is better suited for summer heat?
-कयआपकपसनकरकतलशकमम,b_22_8_1,closer to home
-कयआपकपसनकरकतलशकमम,b_22_8_2,time flexibility
-कयआपकपसनकरकतलशकमम,b_22_8_3,allows more leaves.
-कयआपकपसनकरकतलशकमम,b_22_8_4,part-time only
-कयआपकपसनकरकतलशकमम,b_22_8_5,work from home
-कयआपकपसनकरकतलशकमम,b_22_8_6,others
-आपगरमयमअपनकपड़कतन,b_22_9,How often do you clean your clothes in the summers?
-आपगरमयमअपनअडरगरमट,b_22_10,How often do you clean your undergarments in the summers?
-कयआपकघरमकईकलगससटम,b_22_11,Do you have any cooling  system in your household?
-अगरहतकयह,b_22_12,"If yes, then what is it ?"
-आपहरदनकतनबरनहतहकप,b_22_13,How many times do you take bath everyday?
-पछलदमहनकदरनगरमनआप,b_22_14,How did the heat affect any of the family member's health?
-पछलदमहनकदरनगरमनआप,b_22_14_1,Had heat stroke
-पछलदमहनकदरनगरमनआप,b_22_14_2,Upset and angry often
-पछलदमहनकदरनगरमनआप,b_22_14_3,Other mental health issues
-पछलदमहनकदरनगरमनआप,b_22_14_4,Excessive sweating
-पछलदमहनकदरनगरमनआप,b_22_14_5,Unable to go out much as felt weak and sick
-पछलदमहनकदरनगरमनआप,b_22_14_6,Other issues
-“कपयएकसढ़ककलपनकरज,b_22_14_7,"scale of 0 to 10, what would the future heat situation in summer be like?"
-_id,_id,_id
-_index,_index,_index
+परतभगबचचकनम,b_0,Name of the participant
+पतमतकनमपहलनम,b__1,Household head's name 
+परवरकनमउपनम,b_2,Family name/Surname
+AMobileNoPrimary,b_3A,Mobile No. (Primary)
+BMobileNoConfirm,b_3B,Mobile No.(Confirm)
+वहवयकतकनह,b_4,Who is the person?
+P223वयवसयऔरकमईससब,b_2_2_3,Occupation and Earning
+P2231आपकपरथमकवयवस,b_2_2_3_1,Primary occupation
+P2232आपकपरवरकमखयक,b_2_2_3_2,Primary occupation of the main earning member
+परतभगयकबरमउनकमतपत,P,Questions about the participant asked to parents
+P272वहपरतभगभवषयमक,b_2_7_2,What does the participant plan to do in future?
+P272वहपरतभगभवषयमक,b_2_7_2_1,help in household chores at this home
+P272वहपरतभगभवषयमक,b_2_7_2_2,get married
+P272वहपरतभगभवषयमक,b_2_7_2_3,take tuitions
+P272वहपरतभगभवषयमक,b_2_7_2_4,do informal work
+P272वहपरतभगभवषयमक,b_2_7_2_5,continue higher education
+P272वहपरतभगभवषयमक,b_2_7_2_6,self-employed
+P272वहपरतभगभवषयमक,b_2_7_2_7, prepare for job
+P272वहपरतभगभवषयमक,b_2_7_2_8,do goverment job
+P272वहपरतभगभवषयमक,b_2_7_2_9,do private job
+P272वहपरतभगभवषयमक,b_2_7_2_10,Others
+P273यदवहपरतभगउचचश,b_2_7_3,Highest level of education he/she wants to pursue
+P274कयवहपरतभगपछलब,b_2_7_4,Has the participant been looking for any job in the last 12 months?
+P275पछलबरहमहनमवहप,b_2_7_5,Number of exams he/she sat for in the last 12 months
+P275Bपछलबरहमहनमवह,b_2_7_5B,Number of interviews he/she sat for in the last 12 months
+P276वहपरतभगभवषयमक,b_2_7_6,Kind of job that he/she wants to do in future
+P276Aउसकमनमकसतरहक,b_2_7_6A,Kind of government job that he/she aspires
+P276Aउसकमनमकसतरहक,b_2_7_6A_1," Central government job through UPSC like IAS, IPS etc."
+P276Aउसकमनमकसतरहक,b_2_7_6A_2,Nationalized Banks
+P276Aउसकमनमकसतरहक,b_2_7_6A_3,Indian Railways
+P276Aउसकमनमकसतरहक,b_2_7_6A_4,SSC
+P276Aउसकमनमकसतरहक,b_2_7_6A_5,Defense exam such as NDA
+P276Aउसकमनमकसतरहक,b_2_7_6A_6,Public sector undertaking (PSU jobs)
+P276Aउसकमनमकसतरहक,b_2_7_6A_7,Food corporation of India (FCI) jobs
+P276Aउसकमनमकसतरहक,b_2_7_6A_8,Kendriya Vidyalaya teaching post exams
+P276Aउसकमनमकसतरहक,b_2_7_6A_9,UP police
+P276Aउसकमनमकसतरहक,b_2_7_6A_10,UP Public service commission
+P276Aउसकमनमकसतरहक,b_2_7_6A_11,UP Teaching eligibility test
+P276Aउसकमनमकसतरहक,b_2_7_6A_12,UP State Eligibility Test
+P276Aउसकमनमकसतरहक,b_2_7_6A_13,UP High Court recruitment
+P276Aउसकमनमकसतरहक,b_2_7_6A_14,UP Lekpal Exams
+P276Aउसकमनमकसतरहक,b_2_7_6A_15,Others
+P276Aउसकमनमकसतरहक,b_2_7_6A_16,NA
+P276Bवहकससतरपरसरक,b_2_7_6B,At what level is he/she aspiring to get the govt. job?
+P277कयवहपरतभगनकरक,b_2_7_7,Is he/she open to moving out of the current location for job?
+P278कयनकरखजनकममलम,b_2_7_8,Does he/she have any specfic restrictions in terms of job search?
+P278कयनकरखजनकममलम,b_2_7_8_1, Closer to home
+P278कयनकरखजनकममलम,b_2_7_8_2,Time flexibility
+P278कयनकरखजनकममलम,b_2_7_8_3,Work-life balance
+P278कयनकरखजनकममलम,b_2_7_8_4,Job security/position
+P278कयनकरखजनकममलम,b_2_7_8_5, Part-time only
+P278कयनकरखजनकममलम,b_2_7_8_6,Others
+P279पछलसपतहमउसनपर,b_2_7_9,Average number of hours he /she prepared for job market/entrance exams
+P2710जबमरकटखजकलएप,b_2_7_10,Kind of preparation he/she took in the last 12 months for the job market/search
+P2710Bयदउसपरतभगकस,b_2_7_10B,Back-up plan
+P2711वहपरतभगकसउमर,b_2_7_11,Age at which he/she wants the participant to get married?
+P2712वहपरतभगकसउमर,b_2_7_12,Age at which he/she wanted the participant to start a family
+P2713आपकलएनकरकपरक,b_2_7_13," For you, which family member's opinion matters most while deciding the job type"
+P27140स10कपमनपर0क,b_2_7_14,"scale of 0 to 10, your confidence that he/she will go out to work"
+P27150स10कसकलपर0क,b_2_7_15,"scale of 0 to 10, your confidence that he/she will land a govt. job"
+P2716आपककयलगतहकउस,b_2_7_16,"scale of 0 to 10, how easy for him/her to succeed in the job market?"
+P2717आपककयलगतहकउस,b_2_7_17,"scale of 0 to 10, how easy for him/her to succeed in government job market"
+P2718आपकअनसरनकरबज,b_2_7_18,Main obstacle that he/she is facing in the job market
+P291पछल7दनमआपकऔसत,b_2_9_1,General Health
+P292पछल7दनमआपकऔसत,b_2_9_2,Mental health
+P216परथमकतएँवरयतस,b_2_16,Preferences
+P2161कयआपआमतरपरऐस,b_2_16_1,"scale of 0 to 10, are you prepared to take risks?"
+P2162आपबदलमकछभउमम,b_2_16_2,"scale of 0 to10, how willing are you to give to good causes without expecting?"
+P2163भवषयमउससलभपन,b_2_16_3,"scale of 0 to10, will to give up something beneficial today to benefit in future"
+id,_id,_id
+index,_index,_index

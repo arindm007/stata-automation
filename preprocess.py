@@ -22,8 +22,8 @@ def remove_matras_and_replace(text):
     # Remove 'अं' and replace with 'अ'
     text = re.sub('अं', 'अ', text)
 
-    # Remove integer values (digits)
-    text = re.sub(r'\d+', '', text)
+    # # Remove integer values (digits)
+    # text = re.sub(r'\d+', '', text)
 
     # Remove spaces
     text = text.replace(' ', '')
@@ -41,7 +41,7 @@ def remove_matras_and_replace(text):
     text = text.replace('?', '')
 
     # Remove additional symbols: comma, slash, quotation marks, square brackets
-    text = text.replace(',', '').replace('/', '').replace('"', '').replace('[', '').replace(']', '')
+    text = text.replace(',', '').replace('/', '').replace('"', '').replace('[', '').replace(']', '').replace('-', '').replace('_', '').replace('“', '')
 
     # Preserve only the first 17 characters
     text = text[:17]
